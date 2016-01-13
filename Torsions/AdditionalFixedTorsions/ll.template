@@ -1,0 +1,30 @@
+#!/bin/bash
+# @ output = {mol}.{ang}.log
+# @ error = $(job_name).$(jobid).err
+## give the job a meaningful name
+# @ job_name = {mol}.{ang}.{des}
+# @ job_type = parallel
+# remove leading # to enable the following lines for notification
+# @ notification = always
+# @ notify_user = ivansqmjobs@gmail.com
+# @ class = General
+## This is the account and group for your project that you must always set:
+# @ account_no = nesi00170
+# @ wall_clock_limit = 1:00:00
+# @ node = 1
+# @ tasks_per_node = 32
+# @ task_affinity = core(1)
+# @ queue
+
+export MP_EAGER_LIMIT=65536
+export MP_SHARED_MEMORY=yes
+export MEMORY_AFFINITY=MCM
+
+# If the your input is myjob.inp then JOB=myjob
+export JOB={mol}.{ang}
+# location where gamess will save its temporary files. The current value should be fine.
+export SCR=`pwd`/gamess
+# start gamess
+/nesi/projects/nesi00170/gamess-bin/rungms-pwr6
+
+
