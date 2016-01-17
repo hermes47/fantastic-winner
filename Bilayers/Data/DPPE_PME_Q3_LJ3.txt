@@ -1,0 +1,1 @@
+Area per Lipid:               0.6407 +/- 0.0018     nm^2
