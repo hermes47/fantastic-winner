@@ -3,3 +3,4 @@
 *.err
 *.log
 *.png
+.DS_Store
