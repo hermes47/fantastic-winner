@@ -4,3 +4,9 @@
 *.log
 *.png
 .DS_Store
+*.mtb
+*.top
+*.cnf
+*.imd
+*.dat
+*.swp
