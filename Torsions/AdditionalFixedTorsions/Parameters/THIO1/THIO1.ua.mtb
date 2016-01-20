@@ -134,7 +134,7 @@ MTBUILDBLSOLUTE
 # NDA
     4
 #  IB   JB   KB   LB   MCB
-    1    2    3    7   34    
+    1    2    3    7   38 # 34
     2    3    4    5   34    
     2    3    7    8   34    
     3    4    5    6   26    
