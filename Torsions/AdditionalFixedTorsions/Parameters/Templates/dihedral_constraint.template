@@ -1,0 +1,16 @@
+TITLE
+Diheral Constraint File
+END
+DIHEDRALRESSPEC
+# IPLR, JPLR, KPLR, LPLR   atom sequence numbers of the atoms defining the
+#                          restrained dihedral i-j-k-l
+# WDLR                     individual dihedral restraint weight factor by which
+#                          the harmonic dihedral restraining term may be multiplied.
+# PDLR                     dihedral angle value (in degrees) at minimum energy of
+#                          of the harmonic dihedral restraining term.
+# DELTA                    deviation of the zero-energy dihedral angle value after
+#                          after which the restraint switches to the next periodic
+#                          value.
+#  IPLR  JPLR  KPLR  LPLR  WDLR  PDLR  DELTA
+   {constraints}
+END
