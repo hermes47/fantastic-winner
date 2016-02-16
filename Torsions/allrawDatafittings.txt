@@ -1,0 +1,4527 @@
+Real data test: 30PsiAllFixed.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  10.3547072, delta1  =   0.0000000
+k2  =   5.4239364, delta2  =   0.0000000
+k3  =   8.7926622, delta3  =   0.0000000
+RMSD =  4.67234395
+
+Two pass non-phased fitting:
+k1  =  10.3547196, delta1  =   0.0000000
+k2  =   5.4239274, delta2  =   0.0000000
+k3  =   8.7926654, delta3  =   0.0000000
+RMSD =  4.67234395
+
+Multi pass non-phased fitting:
+k1  =  10.3547196, delta1  =   0.0000000
+k2  =   5.4239274, delta2  =   0.0000000
+k3  =   8.7926654, delta3  =   0.0000000
+RMSD =  4.67234395
+
+One pass phased fitting:
+k1  =  10.4115489, delta1  =   6.1108184
+k2  =   8.0531681, delta2  = -47.6386884
+k3  =   8.8112893, delta3  =  -3.9511406
+RMSD =  1.82381012
+
+Two pass phased fitting:
+k1  =  10.4084822, delta1  =   6.1130727
+k2  =   8.0553731, delta2  = -47.6231957
+k3  =   8.8081815, delta3  =  -3.9509582
+RMSD =  1.82380617
+
+Multi pass phased fitting:
+k1  =  10.4084822, delta1  =   6.1130727
+k2  =   8.0553731, delta2  = -47.6231957
+k3  =   8.8081815, delta3  =  -3.9509582
+RMSD =  1.82380617
+
+___________________________________________
+
+Real data test: 30PsiAllFixed.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  10.4369220, delta1  =   0.0000000
+k2  =   5.0757074, delta2  =   0.0000000
+k3  =   8.5855376, delta3  =   0.0000000
+RMSD =  4.93540809
+
+Two pass non-phased fitting:
+k1  =  10.4369430, delta1  =   0.0000000
+k2  =   5.0756883, delta2  =   0.0000000
+k3  =   8.5855537, delta3  =   0.0000000
+RMSD =  4.93540809
+
+Multi pass non-phased fitting:
+k1  =  10.4369430, delta1  =   0.0000000
+k2  =   5.0756883, delta2  =   0.0000000
+k3  =   8.5855537, delta3  =   0.0000000
+RMSD =  4.93540809
+
+One pass phased fitting:
+k1  =  10.4562509, delta1  =   3.7078488
+k2  =   8.1659360, delta2  = -51.5461557
+k3  =   8.6164595, delta3  =  -5.0523329
+RMSD =  1.84232423
+
+Two pass phased fitting:
+k1  =  10.4534140, delta1  =   3.7089778
+k2  =   8.1677401, delta2  = -51.5307204
+k3  =   8.6136188, delta3  =  -5.0535610
+RMSD =  1.84232094
+
+Multi pass phased fitting:
+k1  =  10.4534140, delta1  =   3.7089778
+k2  =   8.1677401, delta2  = -51.5307204
+k3  =   8.6136188, delta3  =  -5.0535610
+RMSD =  1.84232094
+
+___________________________________________
+
+Real data test: 30PsiAllFixed.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   9.9567463, delta1  =   0.0000000
+k2  =   5.2806906, delta2  =   0.0000000
+k3  =   8.4453709, delta3  =   0.0000000
+RMSD =  4.67240227
+
+Two pass non-phased fitting:
+k1  =   9.9567718, delta1  =   0.0000000
+k2  =   5.2806671, delta2  =   0.0000000
+k3  =   8.4453911, delta3  =   0.0000000
+RMSD =  4.67240227
+
+Multi pass non-phased fitting:
+k1  =   9.9567718, delta1  =   0.0000000
+k2  =   5.2806671, delta2  =   0.0000000
+k3  =   8.4453911, delta3  =   0.0000000
+RMSD =  4.67240227
+
+One pass phased fitting:
+k1  =   9.9908511, delta1  =   4.8541775
+k2  =   7.9993433, delta2  = -48.6729224
+k3  =   8.4872064, delta3  =  -5.8076659
+RMSD =  1.74980377
+
+Two pass phased fitting:
+k1  =   9.9876349, delta1  =   4.8558693
+k2  =   8.0015093, delta2  = -48.6557580
+k3  =   8.4839853, delta3  =  -5.8094368
+RMSD =  1.74979929
+
+Multi pass phased fitting:
+k1  =   9.9876349, delta1  =   4.8558693
+k2  =   8.0015093, delta2  = -48.6557580
+k3  =   8.4839853, delta3  =  -5.8094368
+RMSD =  1.74979929
+
+___________________________________________
+
+Real data test: 30PsiAllFixed.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  10.7698497, delta1  =   0.0000000
+k2  =   5.4546869, delta2  =   0.0000000
+k3  =   9.1772542, delta3  =   0.0000000
+RMSD =  4.68310028
+
+Two pass non-phased fitting:
+k1  =  10.7698668, delta1  =   0.0000000
+k2  =   5.4546724, delta2  =   0.0000000
+k3  =   9.1772644, delta3  =   0.0000000
+RMSD =  4.68310028
+
+Multi pass non-phased fitting:
+k1  =  10.7698668, delta1  =   0.0000000
+k2  =   5.4546724, delta2  =   0.0000000
+k3  =   9.1772644, delta3  =   0.0000000
+RMSD =  4.68310028
+
+One pass phased fitting:
+k1  =  10.7820658, delta1  =   3.0166071
+k2  =   8.1417401, delta2  = -47.9097593
+k3  =   9.1820889, delta3  =  -2.3246205
+RMSD =  1.85680348
+
+Two pass phased fitting:
+k1  =  10.7792231, delta1  =   3.0176737
+k2  =   8.1437265, delta2  = -47.8953550
+k3  =   9.1792323, delta3  =  -2.3243931
+RMSD =  1.85680020
+
+Multi pass phased fitting:
+k1  =  10.7792231, delta1  =   3.0176737
+k2  =   8.1437265, delta2  = -47.8953550
+k3  =   9.1792323, delta3  =  -2.3243931
+RMSD =  1.85680020
+
+___________________________________________
+
+Real data test: 30PsiAllFixed.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  10.7134468, delta1  =   0.0000000
+k2  =   5.5550913, delta2  =   0.0000000
+k3  =   9.1165425, delta3  =   0.0000000
+RMSD =  4.86541886
+
+Two pass non-phased fitting:
+k1  =  10.7134736, delta1  =   0.0000000
+k2  =   5.5550658, delta2  =   0.0000000
+k3  =   9.1165656, delta3  =   0.0000000
+RMSD =  4.86541886
+
+Multi pass non-phased fitting:
+k1  =  10.7134736, delta1  =   0.0000000
+k2  =   5.5550658, delta2  =   0.0000000
+k3  =   9.1165656, delta3  =   0.0000000
+RMSD =  4.86541886
+
+One pass phased fitting:
+k1  =  10.7252383, delta1  =   3.0107508
+k2  =   8.4268944, delta2  = -48.7331304
+k3  =   9.1230617, delta3  =  -2.6189221
+RMSD =  1.83470049
+
+Two pass phased fitting:
+k1  =  10.7224748, delta1  =   3.0115590
+k2  =   8.4287291, delta2  = -48.7190414
+k3  =   9.1202958, delta3  =  -2.6196056
+RMSD =  1.83469736
+
+Multi pass phased fitting:
+k1  =  10.7224748, delta1  =   3.0115590
+k2  =   8.4287291, delta2  = -48.7190414
+k3  =   9.1202958, delta3  =  -2.6196056
+RMSD =  1.83469736
+
+___________________________________________
+
+Real data test: 60PsiBothAllFixed.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  13.0516284, delta1  =   0.0000000
+k2  =   7.4637987, delta2  =   0.0000000
+k3  =   9.3638328, delta3  =   0.0000000
+RMSD =  4.24122152
+
+Two pass non-phased fitting:
+k1  =  13.0516804, delta1  =   0.0000000
+k2  =   7.4637502, delta2  =   0.0000000
+k3  =   9.3638755, delta3  =   0.0000000
+RMSD =  4.24122152
+
+Multi pass non-phased fitting:
+k1  =  13.0516804, delta1  =   0.0000000
+k2  =   7.4637502, delta2  =   0.0000000
+k3  =   9.3638755, delta3  =   0.0000000
+RMSD =  4.24122152
+
+One pass phased fitting:
+k1  =  13.5295875, delta1  =  15.3928465
+k2  =   8.3811741, delta2  = -26.9475202
+k3  =   9.6265333, delta3  =  13.6035841
+RMSD =  1.32675040
+
+Two pass phased fitting:
+k1  =  13.5283649, delta1  =  15.3947151
+k2  =   8.3824230, delta2  = -26.9447267
+k3  =   9.6253381, delta3  =  13.6071580
+RMSD =  1.32674942
+
+Multi pass phased fitting:
+k1  =  13.5283649, delta1  =  15.3947151
+k2  =   8.3824230, delta2  = -26.9447267
+k3  =   9.6253381, delta3  =  13.6071580
+RMSD =  1.32674942
+
+___________________________________________
+
+Real data test: 60PsiBothAllFixed.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  13.3735564, delta1  =   0.0000000
+k2  =   7.4521492, delta2  =   0.0000000
+k3  =   9.5383321, delta3  =   0.0000000
+RMSD =  4.17453716
+
+Two pass non-phased fitting:
+k1  =  13.3736163, delta1  =   0.0000000
+k2  =   7.4520918, delta2  =   0.0000000
+k3  =   9.5383854, delta3  =   0.0000000
+RMSD =  4.17453716
+
+Multi pass non-phased fitting:
+k1  =  13.3736163, delta1  =   0.0000000
+k2  =   7.4520918, delta2  =   0.0000000
+k3  =   9.5383854, delta3  =   0.0000000
+RMSD =  4.17453716
+
+One pass phased fitting:
+k1  =  13.7075026, delta1  =  12.8065750
+k2  =   8.5653965, delta2  = -29.4422467
+k3  =   9.7367140, delta3  =  11.7900802
+RMSD =  1.40224747
+
+Two pass phased fitting:
+k1  =  13.7062061, delta1  =  12.8080783
+k2  =   8.5666305, delta2  = -29.4385602
+k3  =   9.7354329, delta3  =  11.7927951
+RMSD =  1.40224649
+
+Multi pass phased fitting:
+k1  =  13.7062061, delta1  =  12.8080783
+k2  =   8.5666305, delta2  = -29.4385602
+k3  =   9.7354329, delta3  =  11.7927951
+RMSD =  1.40224649
+
+___________________________________________
+
+Real data test: 60PsiBothAllFixed.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  12.7027670, delta1  =   0.0000000
+k2  =   7.4916358, delta2  =   0.0000000
+k3  =   9.2620143, delta3  =   0.0000000
+RMSD =  4.28367989
+
+Two pass non-phased fitting:
+k1  =  12.7028046, delta1  =   0.0000000
+k2  =   7.4916034, delta2  =   0.0000000
+k3  =   9.2620382, delta3  =   0.0000000
+RMSD =  4.28367989
+
+Multi pass non-phased fitting:
+k1  =  12.7028046, delta1  =   0.0000000
+k2  =   7.4916034, delta2  =   0.0000000
+k3  =   9.2620382, delta3  =   0.0000000
+RMSD =  4.28367989
+
+One pass phased fitting:
+k1  =  13.1260120, delta1  =  14.7152883
+k2  =   8.5998383, delta2  = -29.3099837
+k3  =   9.4760453, delta3  =  12.4072435
+RMSD =  1.36122586
+
+Two pass phased fitting:
+k1  =  13.1247648, delta1  =  14.7174525
+k2  =   8.6011629, delta2  = -29.3075150
+k3  =   9.4748379, delta3  =  12.4118704
+RMSD =  1.36122481
+
+Multi pass phased fitting:
+k1  =  13.1247648, delta1  =  14.7174525
+k2  =   8.6011629, delta2  = -29.3075150
+k3  =   9.4748379, delta3  =  12.4118704
+RMSD =  1.36122481
+
+___________________________________________
+
+Real data test: 60PsiBothAllFixed.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  13.7002192, delta1  =   0.0000000
+k2  =   7.9107276, delta2  =   0.0000000
+k3  =  10.1634242, delta3  =   0.0000000
+RMSD =  4.32724450
+
+Two pass non-phased fitting:
+k1  =  13.7002931, delta1  =   0.0000000
+k2  =   7.9106543, delta2  =   0.0000000
+k3  =  10.1634964, delta3  =   0.0000000
+RMSD =  4.32724450
+
+Multi pass non-phased fitting:
+k1  =  13.7002931, delta1  =   0.0000000
+k2  =   7.9106543, delta2  =   0.0000000
+k3  =  10.1634964, delta3  =   0.0000000
+RMSD =  4.32724450
+
+One pass phased fitting:
+k1  =  14.0601587, delta1  =  13.1482208
+k2  =   8.8513940, delta2  = -26.5296215
+k3  =  10.5422410, delta3  =  15.5819700
+RMSD =  1.33573466
+
+Two pass phased fitting:
+k1  =  14.0594027, delta1  =  13.1489336
+k2  =   8.8520868, delta2  = -26.5273590
+k3  =  10.5414922, delta3  =  15.5830769
+RMSD =  1.33573433
+
+Multi pass phased fitting:
+k1  =  14.0594027, delta1  =  13.1489336
+k2  =   8.8520868, delta2  = -26.5273590
+k3  =  10.5414922, delta3  =  15.5830769
+RMSD =  1.33573433
+
+___________________________________________
+
+Real data test: 60PsiBothAllFixed.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  13.5150428, delta1  =   0.0000000
+k2  =   7.8180552, delta2  =   0.0000000
+k3  =   9.9991592, delta3  =   0.0000000
+RMSD =  4.21468167
+
+Two pass non-phased fitting:
+k1  =  13.5151112, delta1  =   0.0000000
+k2  =   7.8179884, delta2  =   0.0000000
+k3  =   9.9992236, delta3  =   0.0000000
+RMSD =  4.21468167
+
+Multi pass non-phased fitting:
+k1  =  13.5151112, delta1  =   0.0000000
+k2  =   7.8179884, delta2  =   0.0000000
+k3  =   9.9992236, delta3  =   0.0000000
+RMSD =  4.21468167
+
+One pass phased fitting:
+k1  =  13.8620830, delta1  =  12.9957226
+k2  =   8.8548180, delta2  = -27.8933647
+k3  =  10.2456621, delta3  =  12.7973483
+RMSD =  1.32193544
+
+Two pass phased fitting:
+k1  =  13.8613632, delta1  =  12.9965477
+k2  =   8.8555088, delta2  = -27.8914767
+k3  =  10.2449539, delta3  =  12.7988093
+RMSD =  1.32193512
+
+Multi pass phased fitting:
+k1  =  13.8613632, delta1  =  12.9965477
+k2  =   8.8555088, delta2  = -27.8914767
+k3  =  10.2449539, delta3  =  12.7988093
+RMSD =  1.32193512
+
+___________________________________________
+
+Real data test: 30PsiBothAllFixed.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  10.5210305, delta1  =   0.0000000
+k2  =   5.6273466, delta2  =   0.0000000
+k3  =   8.8958331, delta3  =   0.0000000
+RMSD =  4.70521527
+
+Two pass non-phased fitting:
+k1  =  10.5210667, delta1  =   0.0000000
+k2  =   5.6273104, delta2  =   0.0000000
+k3  =   8.8958694, delta3  =   0.0000000
+RMSD =  4.70521527
+
+Multi pass non-phased fitting:
+k1  =  10.5210667, delta1  =   0.0000000
+k2  =   5.6273104, delta2  =   0.0000000
+k3  =   8.8958694, delta3  =   0.0000000
+RMSD =  4.70521527
+
+One pass phased fitting:
+k1  =  10.5639055, delta1  =   5.3564033
+k2  =   8.2402836, delta2  = -46.8978070
+k3  =   8.8966951, delta3  =  -1.7423570
+RMSD =  1.87534846
+
+Two pass phased fitting:
+k1  =  10.5612867, delta1  =   5.3574799
+k2  =   8.2420088, delta2  = -46.8840401
+k3  =   8.8940780, delta3  =  -1.7437759
+RMSD =  1.87534570
+
+Multi pass phased fitting:
+k1  =  10.5612867, delta1  =   5.3574799
+k2  =   8.2420088, delta2  = -46.8840401
+k3  =   8.8940780, delta3  =  -1.7437759
+RMSD =  1.87534570
+
+___________________________________________
+
+Real data test: 30PsiBothAllFixed.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  10.6237421, delta1  =   0.0000000
+k2  =   5.2079001, delta2  =   0.0000000
+k3  =   8.8097512, delta3  =   0.0000000
+RMSD =  4.92194218
+
+Two pass non-phased fitting:
+k1  =  10.6237847, delta1  =   0.0000000
+k2  =   5.2078559, delta2  =   0.0000000
+k3  =   8.8097982, delta3  =   0.0000000
+RMSD =  4.92194218
+
+Multi pass non-phased fitting:
+k1  =  10.6237847, delta1  =   0.0000000
+k2  =   5.2078559, delta2  =   0.0000000
+k3  =   8.8097982, delta3  =   0.0000000
+RMSD =  4.92194218
+
+One pass phased fitting:
+k1  =  10.6355801, delta1  =   3.0465149
+k2  =   8.2617943, delta2  = -50.8948329
+k3  =   8.8184163, delta3  =  -2.9712672
+RMSD =  1.84693960
+
+Two pass phased fitting:
+k1  =  10.6329902, delta1  =   3.0466690
+k2  =   8.2632557, delta2  = -50.8799709
+k3  =   8.8158567, delta3  =  -2.9742596
+RMSD =  1.84693686
+
+Multi pass phased fitting:
+k1  =  10.6329902, delta1  =   3.0466690
+k2  =   8.2632557, delta2  = -50.8799709
+k3  =   8.8158567, delta3  =  -2.9742596
+RMSD =  1.84693686
+
+___________________________________________
+
+Real data test: 30PsiBothAllFixed.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  10.0793493, delta1  =   0.0000000
+k2  =   5.4066236, delta2  =   0.0000000
+k3  =   8.5875556, delta3  =   0.0000000
+RMSD =  4.69477497
+
+Two pass non-phased fitting:
+k1  =  10.0793830, delta1  =   0.0000000
+k2  =   5.4065899, delta2  =   0.0000000
+k3  =   8.5875890, delta3  =   0.0000000
+RMSD =  4.69477497
+
+Multi pass non-phased fitting:
+k1  =  10.0793830, delta1  =   0.0000000
+k2  =   5.4065899, delta2  =   0.0000000
+k3  =   8.5875890, delta3  =   0.0000000
+RMSD =  4.69477497
+
+One pass phased fitting:
+k1  =  10.1064034, delta1  =   4.3954426
+k2  =   8.1370722, delta2  = -48.3352096
+k3  =   8.5985908, delta3  =  -3.2350889
+RMSD =  1.77411885
+
+Two pass phased fitting:
+k1  =  10.1035502, delta1  =   4.3964322
+k2  =   8.1389050, delta2  = -48.3197663
+k3  =   8.5957478, delta3  =  -3.2370542
+RMSD =  1.77411539
+
+Multi pass phased fitting:
+k1  =  10.1035502, delta1  =   4.3964322
+k2  =   8.1389050, delta2  = -48.3197663
+k3  =   8.5957478, delta3  =  -3.2370542
+RMSD =  1.77411539
+
+___________________________________________
+
+Real data test: 30PsiBothAllFixed.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  11.0364075, delta1  =   0.0000000
+k2  =   5.7543473, delta2  =   0.0000000
+k3  =   9.5858167, delta3  =   0.0000000
+RMSD =  4.81464058
+
+Two pass non-phased fitting:
+k1  =  11.0364683, delta1  =   0.0000000
+k2  =   5.7542831, delta2  =   0.0000000
+k3  =   9.5858864, delta3  =   0.0000000
+RMSD =  4.81464058
+
+Multi pass non-phased fitting:
+k1  =  11.0364683, delta1  =   0.0000000
+k2  =   5.7542831, delta2  =   0.0000000
+k3  =   9.5858864, delta3  =   0.0000000
+RMSD =  4.81464058
+
+One pass phased fitting:
+k1  =  11.0402687, delta1  =   2.2090817
+k2  =   8.4875481, delta2  = -47.2744908
+k3  =   9.5835602, delta3  =   1.1945601
+RMSD =  1.90627008
+
+Two pass phased fitting:
+k1  =  11.0381288, delta1  =   2.2086346
+k2  =   8.4887462, delta2  = -47.2623826
+k3  =   9.5814268, delta3  =   1.1918025
+RMSD =  1.90626824
+
+Multi pass phased fitting:
+k1  =  11.0381288, delta1  =   2.2086346
+k2  =   8.4887462, delta2  = -47.2623826
+k3  =   9.5814268, delta3  =   1.1918025
+RMSD =  1.90626824
+
+___________________________________________
+
+Real data test: 30PsiBothAllFixed.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  10.8087895, delta1  =   0.0000000
+k2  =   5.6174937, delta2  =   0.0000000
+k3  =   9.3666279, delta3  =   0.0000000
+RMSD =  4.88503022
+
+Two pass non-phased fitting:
+k1  =  10.8088372, delta1  =   0.0000000
+k2  =   5.6174443, delta2  =   0.0000000
+k3  =   9.3666801, delta3  =   0.0000000
+RMSD =  4.88503022
+
+Multi pass non-phased fitting:
+k1  =  10.8088372, delta1  =   0.0000000
+k2  =   5.6174443, delta2  =   0.0000000
+k3  =   9.3666801, delta3  =   0.0000000
+RMSD =  4.88503022
+
+One pass phased fitting:
+k1  =  10.8162732, delta1  =   2.6180931
+k2  =   8.5046330, delta2  = -48.6261857
+k3  =   9.3639557, delta3  =  -0.8902608
+RMSD =  1.83487362
+
+Two pass phased fitting:
+k1  =  10.8139111, delta1  =   2.6180941
+k2  =   8.5060294, delta2  = -48.6133138
+k3  =   9.3616088, delta3  =  -0.8924610
+RMSD =  1.83487133
+
+Multi pass phased fitting:
+k1  =  10.8139111, delta1  =   2.6180941
+k2  =   8.5060294, delta2  = -48.6133138
+k3  =   9.3616088, delta3  =  -0.8924610
+RMSD =  1.83487133
+
+___________________________________________
+
+Real data test: 60PsiOriginal.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.0164546, delta1  =   0.0000000
+k2  =   1.6718351, delta2  =   0.0000000
+k3  =   6.7538504, delta3  =   0.0000000
+RMSD =  3.79277583
+
+Two pass non-phased fitting:
+k1  =   4.0164963, delta1  =   0.0000000
+k2  =   1.6717872, delta2  =   0.0000000
+k3  =   6.7539087, delta3  =   0.0000000
+RMSD =  3.79277583
+
+Multi pass non-phased fitting:
+k1  =   4.0164963, delta1  =   0.0000000
+k2  =   1.6717872, delta2  =   0.0000000
+k3  =   6.7539087, delta3  =   0.0000000
+RMSD =  3.79277583
+
+One pass phased fitting:
+k1  =   4.7408989, delta1  =  32.2019203
+k2  =   4.7246754, delta2  = -69.2143831
+k3  =   6.7921023, delta3  =   6.4558476
+RMSD =  1.07211292
+
+Two pass phased fitting:
+k1  =   4.7392720, delta1  =  32.2103918
+k2  =   4.7247819, delta2  = -69.1922644
+k3  =   6.7902899, delta3  =   6.4505989
+RMSD =  1.07211055
+
+Multi pass phased fitting:
+k1  =   4.7392720, delta1  =  32.2103918
+k2  =   4.7247819, delta2  = -69.1922644
+k3  =   6.7902899, delta3  =   6.4505989
+RMSD =  1.07211055
+
+___________________________________________
+
+Real data test: 60PsiOriginal.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.1237933, delta1  =   0.0000000
+k2  =   1.5856293, delta2  =   0.0000000
+k3  =   6.8199930, delta3  =   0.0000000
+RMSD =  3.76707864
+
+Two pass non-phased fitting:
+k1  =   4.1135572, delta1  =   0.0000000
+k2  =   1.6189188, delta2  =   0.0000000
+k3  =   6.8472835, delta3  =   0.0000000
+RMSD =  3.76700823
+
+Multi pass non-phased fitting:
+k1  =   4.1135572, delta1  =   0.0000000
+k2  =   1.6189188, delta2  =   0.0000000
+k3  =   6.8472835, delta3  =   0.0000000
+RMSD =  3.76700823
+
+One pass phased fitting:
+k1  =   4.7886985, delta1  =  30.0391002
+k2  =   4.6871628, delta2  = -71.1318044
+k3  =   6.7799078, delta3  =   5.7223573
+RMSD =  0.97185670
+
+Two pass phased fitting:
+k1  =   4.8199177, delta1  =  31.4387080
+k2  =   4.6646015, delta2  = -69.6687651
+k3  =   6.8544507, delta3  =   4.9596459
+RMSD =  0.96362111
+
+Multi pass phased fitting:
+k1  =   4.8199177, delta1  =  31.4387080
+k2  =   4.6646015, delta2  = -69.6687651
+k3  =   6.8544507, delta3  =   4.9596459
+RMSD =  0.96362111
+
+___________________________________________
+
+Real data test: 60PsiOriginal.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   3.6302240, delta1  =   0.0000000
+k2  =   1.5960276, delta2  =   0.0000000
+k3  =   6.4997586, delta3  =   0.0000000
+RMSD =  3.65552677
+
+Two pass non-phased fitting:
+k1  =   3.6302718, delta1  =   0.0000000
+k2  =   1.5959745, delta2  =   0.0000000
+k3  =   6.4998205, delta3  =   0.0000000
+RMSD =  3.65552677
+
+Multi pass non-phased fitting:
+k1  =   3.6302718, delta1  =   0.0000000
+k2  =   1.5959745, delta2  =   0.0000000
+k3  =   6.4998205, delta3  =   0.0000000
+RMSD =  3.65552677
+
+One pass phased fitting:
+k1  =   4.3742019, delta1  =  34.0200529
+k2  =   4.6340368, delta2  = -69.7920442
+k3  =   6.5241755, delta3  =   5.4149387
+RMSD =  0.85155623
+
+Two pass phased fitting:
+k1  =   4.3727910, delta1  =  34.0288437
+k2  =   4.6341307, delta2  = -69.7721977
+k3  =   6.5225878, delta3  =   5.4100865
+RMSD =  0.85155392
+
+Multi pass phased fitting:
+k1  =   4.3727910, delta1  =  34.0288437
+k2  =   4.6341307, delta2  = -69.7721977
+k3  =   6.5225878, delta3  =   5.4100865
+RMSD =  0.85155392
+
+___________________________________________
+
+Real data test: 60PsiOriginal.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.5588147, delta1  =   0.0000000
+k2  =   1.8986573, delta2  =   0.0000000
+k3  =   7.1943089, delta3  =   0.0000000
+RMSD =  3.74173168
+
+Two pass non-phased fitting:
+k1  =   4.5588916, delta1  =   0.0000000
+k2  =   1.8985699, delta2  =   0.0000000
+k3  =   7.1944136, delta3  =   0.0000000
+RMSD =  3.74173168
+
+Multi pass non-phased fitting:
+k1  =   4.5588916, delta1  =   0.0000000
+k2  =   1.8985699, delta2  =   0.0000000
+k3  =   7.1944136, delta3  =   0.0000000
+RMSD =  3.74173168
+
+One pass phased fitting:
+k1  =   5.0935060, delta1  =  26.6196009
+k2  =   4.6791524, delta2  = -65.9907810
+k3  =   7.2976291, delta3  =   9.8937644
+RMSD =  1.21689680
+
+Two pass phased fitting:
+k1  =   5.0917224, delta1  =  26.6241900
+k2  =   4.6790774, delta2  = -65.9666982
+k3  =   7.2956842, delta3  =   9.8860392
+RMSD =  1.21689433
+
+Multi pass phased fitting:
+k1  =   5.0917224, delta1  =  26.6241900
+k2  =   4.6790774, delta2  = -65.9666982
+k3  =   7.2956842, delta3  =   9.8860392
+RMSD =  1.21689433
+
+___________________________________________
+
+Real data test: 60PsiOriginal.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.2771668, delta1  =   0.0000000
+k2  =   1.8152080, delta2  =   0.0000000
+k3  =   7.1214313, delta3  =   0.0000000
+RMSD =  3.74867658
+
+Two pass non-phased fitting:
+k1  =   4.2772267, delta1  =   0.0000000
+k2  =   1.8151398, delta2  =   0.0000000
+k3  =   7.1215134, delta3  =   0.0000000
+RMSD =  3.74867658
+
+Multi pass non-phased fitting:
+k1  =   4.2772267, delta1  =   0.0000000
+k2  =   1.8151398, delta2  =   0.0000000
+k3  =   7.1215134, delta3  =   0.0000000
+RMSD =  3.74867658
+
+One pass phased fitting:
+k1  =   4.8460271, delta1  =  28.1816693
+k2  =   4.8157960, delta2  = -67.7843769
+k3  =   7.1807864, delta3  =   7.7128340
+RMSD =  1.01743286
+
+Two pass phased fitting:
+k1  =   4.8448449, delta1  =  28.1845171
+k2  =   4.8155891, delta2  = -67.7686321
+k3  =   7.1795257, delta3  =   7.7058385
+RMSD =  1.01743147
+
+Multi pass phased fitting:
+k1  =   4.8448449, delta1  =  28.1845171
+k2  =   4.8155891, delta2  = -67.7686321
+k3  =   7.1795257, delta3  =   7.7058385
+RMSD =  1.01743147
+
+___________________________________________
+
+Real data test: BothAllFixed.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.2895968, delta1  =   0.0000000
+k2  =   1.9741600, delta2  =   0.0000000
+k3  =   6.1715404, delta3  =   0.0000000
+RMSD =  4.21010241
+
+Two pass non-phased fitting:
+k1  =   5.2896681, delta1  =   0.0000000
+k2  =   1.9740827, delta2  =   0.0000000
+k3  =   6.1716278, delta3  =   0.0000000
+RMSD =  4.21010241
+
+Multi pass non-phased fitting:
+k1  =   5.2896681, delta1  =   0.0000000
+k2  =   1.9740827, delta2  =   0.0000000
+k3  =   6.1716278, delta3  =   0.0000000
+RMSD =  4.21010241
+
+One pass phased fitting:
+k1  =   5.5062059, delta1  =  16.3301829
+k2  =   5.9457813, delta2  = -70.5517034
+k3  =   6.1890354, delta3  =   4.9427931
+RMSD =  0.81899443
+
+Two pass phased fitting:
+k1  =   5.5048257, delta1  =  16.3315403
+k2  =   5.9457366, delta2  = -70.5377102
+k3  =   6.1876296, delta3  =   4.9365905
+RMSD =  0.81899245
+
+Multi pass phased fitting:
+k1  =   5.5048257, delta1  =  16.3315403
+k2  =   5.9457366, delta2  = -70.5377102
+k3  =   6.1876296, delta3  =   4.9365905
+RMSD =  0.81899245
+
+___________________________________________
+
+Real data test: BothAllFixed.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.1687599, delta1  =   0.0000000
+k2  =   1.5180163, delta2  =   0.0000000
+k3  =   6.1823024, delta3  =   0.0000000
+RMSD =  4.16882797
+
+Two pass non-phased fitting:
+k1  =   5.1688440, delta1  =   0.0000000
+k2  =   1.5179247, delta2  =   0.0000000
+k3  =   6.1824063, delta3  =   0.0000000
+RMSD =  4.16882797
+
+Multi pass non-phased fitting:
+k1  =   5.1688440, delta1  =   0.0000000
+k2  =   1.5179247, delta2  =   0.0000000
+k3  =   6.1824063, delta3  =   0.0000000
+RMSD =  4.16882797
+
+One pass phased fitting:
+k1  =   5.4026095, delta1  =  17.1492716
+k2  =   5.7109444, delta2  = -74.5189283
+k3  =   6.2386604, delta3  =   8.1301977
+RMSD =  0.76111651
+
+Two pass phased fitting:
+k1  =   5.4016083, delta1  =  17.1491083
+k2  =   5.7105992, delta2  = -74.5081401
+k3  =   6.2376078, delta3  =   8.1229549
+RMSD =  0.76111518
+
+Multi pass phased fitting:
+k1  =   5.4016083, delta1  =  17.1491083
+k2  =   5.7105992, delta2  = -74.5081401
+k3  =   6.2376078, delta3  =   8.1229549
+RMSD =  0.76111518
+
+___________________________________________
+
+Real data test: BothAllFixed.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.6269204, delta1  =   0.0000000
+k2  =   1.8493495, delta2  =   0.0000000
+k3  =   6.0178031, delta3  =   0.0000000
+RMSD =  4.02364798
+
+Two pass non-phased fitting:
+k1  =   4.6269983, delta1  =   0.0000000
+k2  =   1.8492654, delta2  =   0.0000000
+k3  =   6.0178976, delta3  =   0.0000000
+RMSD =  4.02364798
+
+Multi pass non-phased fitting:
+k1  =   4.6269983, delta1  =   0.0000000
+k2  =   1.8492654, delta2  =   0.0000000
+k3  =   6.0178976, delta3  =   0.0000000
+RMSD =  4.02364798
+
+One pass phased fitting:
+k1  =   4.9086706, delta1  =  19.7019938
+k2  =   5.6314529, delta2  = -70.7681124
+k3  =   6.0408793, delta3  =   5.5853031
+RMSD =  0.71722486
+
+Two pass phased fitting:
+k1  =   4.9075250, delta1  =  19.7035064
+k2  =   5.6313215, delta2  = -70.7556272
+k3  =   6.0397037, delta3  =   5.5788408
+RMSD =  0.71722321
+
+Multi pass phased fitting:
+k1  =   4.9075250, delta1  =  19.7035064
+k2  =   5.6313215, delta2  = -70.7556272
+k3  =   6.0397037, delta3  =   5.5788408
+RMSD =  0.71722321
+
+___________________________________________
+
+Real data test: BothAllFixed.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.5955968, delta1  =   0.0000000
+k2  =   2.1526048, delta2  =   0.0000000
+k3  =   6.6878694, delta3  =   0.0000000
+RMSD =  4.10105178
+
+Two pass non-phased fitting:
+k1  =   5.5956859, delta1  =   0.0000000
+k2  =   2.1525065, delta2  =   0.0000000
+k3  =   6.6879830, delta3  =   0.0000000
+RMSD =  4.10105178
+
+Multi pass non-phased fitting:
+k1  =   5.5956859, delta1  =   0.0000000
+k2  =   2.1525065, delta2  =   0.0000000
+k3  =   6.6879830, delta3  =   0.0000000
+RMSD =  4.10105178
+
+One pass phased fitting:
+k1  =   5.7249616, delta1  =  12.5432066
+k2  =   5.7965291, delta2  = -68.1229757
+k3  =   6.8327809, delta3  =  12.1150927
+RMSD =  0.74509528
+
+Two pass phased fitting:
+k1  =   5.7243596, delta1  =  12.5407494
+k2  =   5.7960373, delta2  = -68.1154349
+k3  =   6.8320507, delta3  =  12.1068805
+RMSD =  0.74509435
+
+Multi pass phased fitting:
+k1  =   5.7243596, delta1  =  12.5407494
+k2  =   5.7960373, delta2  = -68.1154349
+k3  =   6.8320507, delta3  =  12.1068805
+RMSD =  0.74509435
+
+___________________________________________
+
+Real data test: BothAllFixed.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.4147259, delta1  =   0.0000000
+k2  =   1.9292490, delta2  =   0.0000000
+k3  =   6.6367584, delta3  =   0.0000000
+RMSD =  4.28493366
+
+Two pass non-phased fitting:
+k1  =   5.4148105, delta1  =   0.0000000
+k2  =   1.9291565, delta2  =   0.0000000
+k3  =   6.6368641, delta3  =   0.0000000
+RMSD =  4.28493366
+
+Multi pass non-phased fitting:
+k1  =   5.4148105, delta1  =   0.0000000
+k2  =   1.9291565, delta2  =   0.0000000
+k3  =   6.6368641, delta3  =   0.0000000
+RMSD =  4.28493366
+
+One pass phased fitting:
+k1  =   5.5706567, delta1  =  13.8806831
+k2  =   6.0568705, delta2  = -71.3590926
+k3  =   6.6878992, delta3  =   7.5435163
+RMSD =  0.78583828
+
+Two pass phased fitting:
+k1  =   5.5699443, delta1  =  13.8790625
+k2  =   6.0564632, delta2  = -71.3513498
+k3  =   6.6871460, delta3  =   7.5359774
+RMSD =  0.78583741
+
+Multi pass phased fitting:
+k1  =   5.5699443, delta1  =  13.8790625
+k2  =   6.0564632, delta2  = -71.3513498
+k3  =   6.6871460, delta3  =   7.5359774
+RMSD =  0.78583741
+
+___________________________________________
+
+Real data test: Original.AMINO-1.aa
+___________________________________________
+One pass non-phased fitting:
+k1  =   1.8304122, delta1  =   0.0000000
+k2  =   1.4619835, delta2  =   0.0000000
+k3  =   9.5322186, delta3  =   0.0000000
+RMSD =  2.14802954
+
+Two pass non-phased fitting:
+k1  =   1.8359720, delta1  =   0.0000000
+k2  =   1.4683435, delta2  =   0.0000000
+k3  =   9.5318595, delta3  =   0.0000000
+RMSD =  2.14804793
+
+Multi pass non-phased fitting:
+k1  =   1.8359720, delta1  =   0.0000000
+k2  =   1.4683435, delta2  =   0.0000000
+k3  =   9.5318595, delta3  =   0.0000000
+RMSD =  2.14804793
+
+One pass phased fitting:
+k1  =   2.8306166, delta1  =  49.8038600
+k2  =   2.4215874, delta2  = -52.6071901
+k3  =   9.5209880, delta3  =   1.3841984
+RMSD =  0.65481712
+
+Two pass phased fitting:
+k1  =   2.8353959, delta1  =  49.7232088
+k2  =   2.4239849, delta2  = -52.4991471
+k3  =   9.5205598, delta3  =   1.3878153
+RMSD =  0.65487088
+
+Multi pass phased fitting:
+k1  =   2.8353959, delta1  =  49.7232088
+k2  =   2.4239849, delta2  = -52.4991471
+k3  =   9.5205598, delta3  =   1.3878153
+RMSD =  0.65487088
+
+___________________________________________
+
+Real data test: Original.AMINO-1.ua
+___________________________________________
+One pass non-phased fitting:
+k1  =   1.8405786, delta1  =   0.0000000
+k2  =   1.7736242, delta2  =   0.0000000
+k3  =   2.0783572, delta3  =   0.0000000
+RMSD =  3.91723452
+
+Two pass non-phased fitting:
+k1  =   1.8456009, delta1  =   0.0000000
+k2  =   1.7792236, delta2  =   0.0000000
+k3  =   2.0838675, delta3  =   0.0000000
+RMSD =  3.91723517
+
+Multi pass non-phased fitting:
+k1  =   1.8456009, delta1  =   0.0000000
+k2  =   1.7792236, delta2  =   0.0000000
+k3  =   2.0838675, delta3  =   0.0000000
+RMSD =  3.91723517
+
+One pass phased fitting:
+k1  =   4.7909692, delta1  =  67.8051008
+k2  =   3.6912490, delta2  = -61.1420497
+k3  =   2.1240835, delta3  =   6.6489987
+RMSD =  0.16494437
+
+Two pass phased fitting:
+k1  =   4.7922489, delta1  =  67.7508347
+k2  =   3.6951704, delta2  = -61.0690132
+k3  =   2.1301651, delta3  =   6.6443340
+RMSD =  0.16498132
+
+Multi pass phased fitting:
+k1  =   4.7922489, delta1  =  67.7508347
+k2  =   3.6951704, delta2  = -61.0690132
+k3  =   2.1301651, delta3  =   6.6443340
+RMSD =  0.16498132
+
+___________________________________________
+
+Real data test: Original.AMINO-1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   1.3860732, delta1  =   0.0000000
+k2  =   1.2275901, delta2  =   0.0000000
+k3  =   7.6016831, delta3  =   0.0000000
+RMSD =  3.82917150
+
+Two pass non-phased fitting:
+k1  =   1.3861338, delta1  =   0.0000000
+k2  =   1.2275245, delta2  =   0.0000000
+k3  =   7.6017570, delta3  =   0.0000000
+RMSD =  3.82917150
+
+Multi pass non-phased fitting:
+k1  =   1.3861338, delta1  =   0.0000000
+k2  =   1.2275245, delta2  =   0.0000000
+k3  =   7.6017570, delta3  =   0.0000000
+RMSD =  3.82917150
+
+One pass phased fitting:
+k1  =   4.9392400, delta1  =  73.7563835
+k2  =   2.5036526, delta2  = -60.5213025
+k3  =   7.7030143, delta3  =   9.5064575
+RMSD =  0.48659210
+
+Two pass phased fitting:
+k1  =   4.9385382, delta1  =  73.7750347
+k2  =   2.5041159, delta2  = -60.4817132
+k3  =   7.7012027, delta3  =   9.5036392
+RMSD =  0.48658710
+
+Multi pass phased fitting:
+k1  =   4.9385382, delta1  =  73.7750347
+k2  =   2.5041159, delta2  = -60.4817132
+k3  =   7.7012027, delta3  =   9.5036392
+RMSD =  0.48658710
+
+___________________________________________
+
+Real data test: Original.AMINO0.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   3.0861914, delta1  =   0.0000000
+k2  =   1.7482151, delta2  =   0.0000000
+k3  =   8.6746325, delta3  =   0.0000000
+RMSD =  2.04721148
+
+Two pass non-phased fitting:
+k1  =   3.0862325, delta1  =   0.0000000
+k2  =   1.7481707, delta2  =   0.0000000
+k3  =   8.6746824, delta3  =   0.0000000
+RMSD =  2.04721148
+
+Multi pass non-phased fitting:
+k1  =   3.0862325, delta1  =   0.0000000
+k2  =   1.7481707, delta2  =   0.0000000
+k3  =   8.6746824, delta3  =   0.0000000
+RMSD =  2.04721148
+
+One pass phased fitting:
+k1  =   3.9759334, delta1  =  39.1371833
+k2  =   2.1771057, delta2  = -36.4803785
+k3  =   8.6797819, delta3  =   2.3752847
+RMSD =  0.37485260
+
+Two pass phased fitting:
+k1  =   3.9753464, delta1  =  39.1414369
+k2  =   2.1774504, delta2  = -36.4644060
+k3  =   8.6791331, delta3  =   2.3726561
+RMSD =  0.37485160
+
+Multi pass phased fitting:
+k1  =   3.9753464, delta1  =  39.1414369
+k2  =   2.1774504, delta2  = -36.4644060
+k3  =   8.6791331, delta3  =   2.3726561
+RMSD =  0.37485160
+
+___________________________________________
+
+Real data test: Original.AMINO1.aa
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.0206224, delta1  =   0.0000000
+k2  =   2.4539667, delta2  =   0.0000000
+k3  =   2.6469710, delta3  =   0.0000000
+RMSD =  3.48350297
+
+Two pass non-phased fitting:
+k1  =   4.9684898, delta1  =   0.0000000
+k2  =   2.4044426, delta2  =   0.0000000
+k3  =   2.5981326, delta3  =   0.0000000
+RMSD =  3.48286273
+
+Multi pass non-phased fitting:
+k1  =   4.9684898, delta1  =   0.0000000
+k2  =   2.4044426, delta2  =   0.0000000
+k3  =   2.5981326, delta3  =   0.0000000
+RMSD =  3.48286273
+
+One pass phased fitting:
+k1  =   5.0069877, delta1  =  -0.2015937
+k2  =   5.3026237, delta2  = -62.4990063
+k3  =   2.7010546, delta3  = -10.2328657
+RMSD =  0.89426191
+
+Two pass phased fitting:
+k1  =   4.9567893, delta1  =  -0.1942454
+k2  =   5.2886483, delta2  = -62.8704548
+k3  =   2.6556735, delta3  = -10.7705397
+RMSD =  0.89191120
+
+Multi pass phased fitting:
+k1  =   4.9567893, delta1  =  -0.1942454
+k2  =   5.2886483, delta2  = -62.8704548
+k3  =   2.6556735, delta3  = -10.7705397
+RMSD =  0.89191120
+
+___________________________________________
+
+Real data test: Original.AMINO1.ua
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.8309187, delta1  =   0.0000000
+k2  =   1.7755648, delta2  =   0.0000000
+k3  =   1.3884266, delta3  =   0.0000000
+RMSD =  4.26647543
+
+Two pass non-phased fitting:
+k1  =   5.8321047, delta1  =   0.0000000
+k2  =   1.7809108, delta2  =   0.0000000
+k3  =   1.3968786, delta3  =   0.0000000
+RMSD =  4.26647801
+
+Multi pass non-phased fitting:
+k1  =   5.8321047, delta1  =   0.0000000
+k2  =   1.7809108, delta2  =   0.0000000
+k3  =   1.3968786, delta3  =   0.0000000
+RMSD =  4.26647801
+
+One pass phased fitting:
+k1  =   5.8071647, delta1  =  -0.6452375
+k2  =   6.0855288, delta2  = -73.4409210
+k3  =   1.4077495, delta3  =  -4.4349252
+RMSD =  0.96754825
+
+Two pass phased fitting:
+k1  =   5.8092289, delta1  =  -0.6811730
+k2  =   6.0877771, delta2  = -73.3028591
+k3  =   1.4135961, delta3  =  -4.6574019
+RMSD =  0.96753178
+
+Multi pass phased fitting:
+k1  =   5.8092289, delta1  =  -0.6811730
+k2  =   6.0877771, delta2  = -73.3028591
+k3  =   1.4135961, delta3  =  -4.6574019
+RMSD =  0.96753178
+
+___________________________________________
+
+Real data test: Original.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.0021129, delta1  =   0.0000000
+k2  =   1.6613596, delta2  =   0.0000000
+k3  =   6.6942318, delta3  =   0.0000000
+RMSD =  3.81648977
+
+Two pass non-phased fitting:
+k1  =   4.0021824, delta1  =   0.0000000
+k2  =   1.6612817, delta2  =   0.0000000
+k3  =   6.6943237, delta3  =   0.0000000
+RMSD =  3.81648977
+
+Multi pass non-phased fitting:
+k1  =   4.0021824, delta1  =   0.0000000
+k2  =   1.6612817, delta2  =   0.0000000
+k3  =   6.6943237, delta3  =   0.0000000
+RMSD =  3.81648977
+
+One pass phased fitting:
+k1  =   4.6644715, delta1  =  31.0183237
+k2  =   4.8362982, delta2  = -69.8499584
+k3  =   6.7198125, delta3  =   5.4363218
+RMSD =  1.08219703
+
+Two pass phased fitting:
+k1  =   4.6627706, delta1  =  31.0257901
+k2  =   4.8362375, delta2  = -69.8274625
+k3  =   6.7179733, delta3  =   5.4286735
+RMSD =  1.08219447
+
+Multi pass phased fitting:
+k1  =   4.6627706, delta1  =  31.0257901
+k2  =   4.8362375, delta2  = -69.8274625
+k3  =   6.7179733, delta3  =   5.4286735
+RMSD =  1.08219447
+
+___________________________________________
+
+Real data test: Original.AMINO2.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   0.8350488, delta1  = 180.0000000
+k2  =   3.3786746, delta2  =   0.0000000
+k3  =   7.4311439, delta3  =   0.0000000
+RMSD =  4.37844962
+
+Two pass non-phased fitting:
+k1  =   0.8350710, delta1  = 180.0000000
+k2  =   3.3787027, delta2  =   0.0000000
+k3  =   7.4311060, delta3  =   0.0000000
+RMSD =  4.37844962
+
+Multi pass non-phased fitting:
+k1  =   0.8350710, delta1  = 180.0000000
+k2  =   3.3787027, delta2  =   0.0000000
+k3  =   7.4311060, delta3  =   0.0000000
+RMSD =  4.37844962
+
+One pass phased fitting:
+k1  =   4.9869548, delta1  = -99.6282049
+k2  =   4.5779483, delta2  =  42.4537164
+k3  =   7.5195841, delta3  =  -8.7482186
+RMSD =  1.28818387
+
+Two pass phased fitting:
+k1  =   4.9856288, delta1  = -99.5601974
+k2  =   4.5730539, delta2  =  42.4989337
+k3  =   7.5254020, delta3  =  -8.7339878
+RMSD =  1.28816229
+
+Multi pass phased fitting:
+k1  =   4.9856288, delta1  = -99.5601974
+k2  =   4.5730539, delta2  =  42.4989337
+k3  =   7.5254020, delta3  =  -8.7339878
+RMSD =  1.28816229
+
+___________________________________________
+
+Real data test: Original.CHLORO-1.aa
+___________________________________________
+One pass non-phased fitting:
+k1  =   1.3468213, delta1  =   0.0000000
+k2  =   1.9480671, delta2  =   0.0000000
+k3  =   3.2813866, delta3  =   0.0000000
+RMSD =  3.07452168
+
+Two pass non-phased fitting:
+k1  =   1.3427717, delta1  =   0.0000000
+k2  =   1.9443005, delta2  =   0.0000000
+k3  =   3.2779348, delta3  =   0.0000000
+RMSD =  3.07451127
+
+Multi pass non-phased fitting:
+k1  =   1.3427717, delta1  =   0.0000000
+k2  =   1.9443005, delta2  =   0.0000000
+k3  =   3.2779348, delta3  =   0.0000000
+RMSD =  3.07451127
+
+One pass phased fitting:
+k1  =   3.5659266, delta1  =  67.9877727
+k2  =   3.2047573, delta2  = -52.3196323
+k3  =   3.3593487, delta3  =  11.3700771
+RMSD =  0.68002322
+
+Two pass phased fitting:
+k1  =   3.5656667, delta1  =  68.0755346
+k2  =   3.2036838, delta2  = -52.4040916
+k3  =   3.3563458, delta3  =  11.4017520
+RMSD =  0.67996398
+
+Multi pass phased fitting:
+k1  =   3.5656667, delta1  =  68.0755346
+k2  =   3.2036838, delta2  = -52.4040916
+k3  =   3.3563458, delta3  =  11.4017520
+RMSD =  0.67996398
+
+___________________________________________
+
+Real data test: Original.CHLORO-1.ua
+___________________________________________
+One pass non-phased fitting:
+k1  =   1.8839345, delta1  =   0.0000000
+k2  =   1.8306592, delta2  =   0.0000000
+k3  =   2.1652709, delta3  =   0.0000000
+RMSD =  4.09488218
+
+Two pass non-phased fitting:
+k1  =   1.8866927, delta1  =   0.0000000
+k2  =   1.8335367, delta2  =   0.0000000
+k3  =   2.1684010, delta3  =   0.0000000
+RMSD =  4.09488367
+
+Multi pass non-phased fitting:
+k1  =   1.8866927, delta1  =   0.0000000
+k2  =   1.8335367, delta2  =   0.0000000
+k3  =   2.1684010, delta3  =   0.0000000
+RMSD =  4.09488367
+
+One pass phased fitting:
+k1  =   5.0741111, delta1  =  68.4179629
+k2  =   3.7387297, delta2  = -61.2403789
+k3  =   2.2079795, delta3  =   5.0001930
+RMSD =  0.18608598
+
+Two pass phased fitting:
+k1  =   5.0744442, delta1  =  68.3806055
+k2  =   3.7418484, delta2  = -61.1793917
+k3  =   2.2115459, delta3  =   4.9931459
+RMSD =  0.18613144
+
+Multi pass phased fitting:
+k1  =   5.0744442, delta1  =  68.3806055
+k2  =   3.7418484, delta2  = -61.1793917
+k3  =   2.2115459, delta3  =   4.9931459
+RMSD =  0.18613144
+
+___________________________________________
+
+Real data test: Original.CHLORO-1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   1.2798592, delta1  =   0.0000000
+k2  =   1.1456424, delta2  =   0.0000000
+k3  =   7.5835102, delta3  =   0.0000000
+RMSD =  3.79430224
+
+Two pass non-phased fitting:
+k1  =   1.2799318, delta1  =   0.0000000
+k2  =   1.1455636, delta2  =   0.0000000
+k3  =   7.5835994, delta3  =   0.0000000
+RMSD =  3.79430224
+
+Multi pass non-phased fitting:
+k1  =   1.2799318, delta1  =   0.0000000
+k2  =   1.1455636, delta2  =   0.0000000
+k3  =   7.5835994, delta3  =   0.0000000
+RMSD =  3.79430224
+
+One pass phased fitting:
+k1  =   4.8865762, delta1  =  74.8701488
+k2  =   2.5080745, delta2  = -62.7066913
+k3  =   7.6529706, delta3  =   7.9678693
+RMSD =  0.47639259
+
+Two pass phased fitting:
+k1  =   4.8859284, delta1  =  74.8861785
+k2  =   2.5082768, delta2  = -62.6709845
+k3  =   7.6514031, delta3  =   7.9634180
+RMSD =  0.47638859
+
+Multi pass phased fitting:
+k1  =   4.8859284, delta1  =  74.8861785
+k2  =   2.5082768, delta2  = -62.6709845
+k3  =   7.6514031, delta3  =   7.9634180
+RMSD =  0.47638859
+
+___________________________________________
+
+Real data test: Original.CHLORO0.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   2.4883550, delta1  =   0.0000000
+k2  =   0.7696937, delta2  =   0.0000000
+k3  =   9.3482458, delta3  =   0.0000000
+RMSD =  2.90119738
+
+Two pass non-phased fitting:
+k1  =   2.4884015, delta1  =   0.0000000
+k2  =   0.7696425, delta2  =   0.0000000
+k3  =   9.3483048, delta3  =   0.0000000
+RMSD =  2.90119738
+
+Multi pass non-phased fitting:
+k1  =   2.4884015, delta1  =   0.0000000
+k2  =   0.7696425, delta2  =   0.0000000
+k3  =   9.3483048, delta3  =   0.0000000
+RMSD =  2.90119738
+
+One pass phased fitting:
+k1  =   3.9074448, delta1  =  50.5177846
+k2  =   2.7643657, delta2  = -73.7501516
+k3  =   9.3657178, delta3  =  -3.8665938
+RMSD =  0.38614459
+
+Two pass phased fitting:
+k1  =   3.9078088, delta1  =  50.5073312
+k2  =   2.7638147, delta2  = -73.7637983
+k3  =   9.3665446, delta3  =  -3.8694225
+RMSD =  0.38614312
+
+Multi pass phased fitting:
+k1  =   3.9078088, delta1  =  50.5073312
+k2  =   2.7638147, delta2  = -73.7637983
+k3  =   9.3665446, delta3  =  -3.8694225
+RMSD =  0.38614312
+
+___________________________________________
+
+Real data test: Original.CHLORO1.aa
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.3488627, delta1  =   0.0000000
+k2  =   2.7641844, delta2  =   0.0000000
+k3  =   2.8535359, delta3  =   0.0000000
+RMSD =  3.50780734
+
+Two pass non-phased fitting:
+k1  =   4.2893720, delta1  =   0.0000000
+k2  =   2.6992765, delta2  =   0.0000000
+k3  =   2.7893298, delta3  =   0.0000000
+RMSD =  3.50686960
+
+Multi pass non-phased fitting:
+k1  =   4.2893720, delta1  =   0.0000000
+k2  =   2.6992765, delta2  =   0.0000000
+k3  =   2.7893298, delta3  =   0.0000000
+RMSD =  3.50686960
+
+One pass phased fitting:
+k1  =   4.3913657, delta1  =   9.4671849
+k2  =   5.3518465, delta2  = -59.2085822
+k3  =   2.8662057, delta3  =  -3.4515023
+RMSD =  1.15051495
+
+Two pass phased fitting:
+k1  =   4.3337915, delta1  =   9.6132849
+k2  =   5.3283198, delta2  = -59.8125399
+k3  =   2.8038530, delta3  =  -3.6689592
+RMSD =  1.14775044
+
+Multi pass phased fitting:
+k1  =   4.3337915, delta1  =   9.6132849
+k2  =   5.3283198, delta2  = -59.8125399
+k3  =   2.8038530, delta3  =  -3.6689592
+RMSD =  1.14775044
+
+___________________________________________
+
+Real data test: Original.CHLORO1.ua
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.6652191, delta1  =   0.0000000
+k2  =   1.7564611, delta2  =   0.0000000
+k3  =   1.3058692, delta3  =   0.0000000
+RMSD =  4.23804561
+
+Two pass non-phased fitting:
+k1  =   5.6624830, delta1  =   0.0000000
+k2  =   1.7626778, delta2  =   0.0000000
+k3  =   1.3098101, delta3  =   0.0000000
+RMSD =  4.23804438
+
+Multi pass non-phased fitting:
+k1  =   5.6624830, delta1  =   0.0000000
+k2  =   1.7626778, delta2  =   0.0000000
+k3  =   1.3098101, delta3  =   0.0000000
+RMSD =  4.23804438
+
+One pass phased fitting:
+k1  =   5.6647576, delta1  =   3.7918294
+k2  =   6.0516140, delta2  = -74.0717393
+k3  =   1.3217517, delta3  =   8.7217794
+RMSD =  0.82232070
+
+Two pass phased fitting:
+k1  =   5.6628161, delta1  =   3.9521605
+k2  =   6.0574625, delta2  = -73.8417750
+k3  =   1.3268045, delta3  =   7.8934657
+RMSD =  0.82202441
+
+Multi pass phased fitting:
+k1  =   5.6628161, delta1  =   3.9521605
+k2  =   6.0574625, delta2  = -73.8417750
+k3  =   1.3268045, delta3  =   7.8934657
+RMSD =  0.82202441
+
+___________________________________________
+
+Real data test: Original.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.2268941, delta1  =   0.0000000
+k2  =   1.4342079, delta2  =   0.0000000
+k3  =   6.7003584, delta3  =   0.0000000
+RMSD =  3.77058956
+
+Two pass non-phased fitting:
+k1  =   4.2269635, delta1  =   0.0000000
+k2  =   1.4341295, delta2  =   0.0000000
+k3  =   6.7004516, delta3  =   0.0000000
+RMSD =  3.77058955
+
+Multi pass non-phased fitting:
+k1  =   4.2269635, delta1  =   0.0000000
+k2  =   1.4341295, delta2  =   0.0000000
+k3  =   6.7004516, delta3  =   0.0000000
+RMSD =  3.77058955
+
+One pass phased fitting:
+k1  =   4.8311869, delta1  =  29.0891015
+k2  =   4.7190555, delta2  = -72.2420360
+k3  =   6.7355839, delta3  =   6.2715849
+RMSD =  1.04578714
+
+Two pass phased fitting:
+k1  =   4.8297804, delta1  =  29.0933304
+k2  =   4.7187715, delta2  = -72.2231744
+k3  =   6.7340938, delta3  =   6.2634219
+RMSD =  1.04578528
+
+Multi pass phased fitting:
+k1  =   4.8297804, delta1  =  29.0933304
+k2  =   4.7187715, delta2  = -72.2231744
+k3  =   6.7340938, delta3  =   6.2634219
+RMSD =  1.04578528
+
+___________________________________________
+
+Real data test: Original.CHLORO2.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.6408704, delta1  =   0.0000000
+k2  =   1.9783000, delta2  =   0.0000000
+k3  =   7.4445133, delta3  =   0.0000000
+RMSD =  3.62872352
+
+Two pass non-phased fitting:
+k1  =   4.6409468, delta1  =   0.0000000
+k2  =   1.9782128, delta2  =   0.0000000
+k3  =   7.4446183, delta3  =   0.0000000
+RMSD =  3.62872352
+
+Multi pass non-phased fitting:
+k1  =   4.6409468, delta1  =   0.0000000
+k2  =   1.9782128, delta2  =   0.0000000
+k3  =   7.4446183, delta3  =   0.0000000
+RMSD =  3.62872352
+
+One pass phased fitting:
+k1  =   5.0905879, delta1  =  24.4044440
+k2  =   4.6243280, delta2  = -64.6016522
+k3  =   7.5398696, delta3  =   9.3638872
+RMSD =  1.21799103
+
+Two pass phased fitting:
+k1  =   5.0888979, delta1  =  24.4075901
+k2  =   4.6242313, delta2  = -64.5785475
+k3  =   7.5380512, delta3  =   9.3559138
+RMSD =  1.21798880
+
+Multi pass phased fitting:
+k1  =   5.0888979, delta1  =  24.4075901
+k2  =   4.6242313, delta2  = -64.5785475
+k3  =   7.5380512, delta3  =   9.3559138
+RMSD =  1.21798880
+
+___________________________________________
+
+Real data test: Original.HYDRO-1.aa
+___________________________________________
+One pass non-phased fitting:
+k1  =   2.2930875, delta1  =   0.0000000
+k2  =   1.3914291, delta2  =   0.0000000
+k3  =   3.4192538, delta3  =   0.0000000
+RMSD =  2.98021968
+
+Two pass non-phased fitting:
+k1  =   2.2923376, delta1  =   0.0000000
+k2  =   1.3915184, delta2  =   0.0000000
+k3  =   3.4192230, delta3  =   0.0000000
+RMSD =  2.98021876
+
+Multi pass non-phased fitting:
+k1  =   2.2923376, delta1  =   0.0000000
+k2  =   1.3915184, delta2  =   0.0000000
+k3  =   3.4192230, delta3  =   0.0000000
+RMSD =  2.98021876
+
+One pass phased fitting:
+k1  =   4.1421680, delta1  =  56.6217515
+k2  =   2.5212157, delta2  = -55.8958340
+k3  =   3.4019819, delta3  =   5.9586481
+RMSD =  0.66957021
+
+Two pass phased fitting:
+k1  =   4.1538573, delta1  =  56.5684574
+k2  =   2.5212908, delta2  = -55.8512812
+k3  =   3.3997678, delta3  =   6.0252594
+RMSD =  0.66960063
+
+Multi pass phased fitting:
+k1  =   4.1538573, delta1  =  56.5684574
+k2  =   2.5212908, delta2  = -55.8512812
+k3  =   3.3997678, delta3  =   6.0252594
+RMSD =  0.66960063
+
+___________________________________________
+
+Real data test: Original.HYDRO-1.ua
+___________________________________________
+One pass non-phased fitting:
+k1  =   2.0350630, delta1  =   0.0000000
+k2  =   1.8329073, delta2  =   0.0000000
+k3  =   1.9996195, delta3  =   0.0000000
+RMSD =  3.94256073
+
+Two pass non-phased fitting:
+k1  =   2.0383540, delta1  =   0.0000000
+k2  =   1.8389237, delta2  =   0.0000000
+k3  =   2.0048582, delta3  =   0.0000000
+RMSD =  3.94256205
+
+Multi pass non-phased fitting:
+k1  =   2.0383540, delta1  =   0.0000000
+k2  =   1.8389237, delta2  =   0.0000000
+k3  =   2.0048582, delta3  =   0.0000000
+RMSD =  3.94256205
+
+One pass phased fitting:
+k1  =   4.8957638, delta1  =  65.8087527
+k2  =   3.6633788, delta2  = -60.3769900
+k3  =   2.0755420, delta3  =   5.5498583
+RMSD =  0.20465817
+
+Two pass phased fitting:
+k1  =   4.8929028, delta1  =  65.7805691
+k2  =   3.6733878, delta2  = -60.3445097
+k3  =   2.0823805, delta3  =   5.4123311
+RMSD =  0.20445982
+
+Multi pass phased fitting:
+k1  =   4.8929028, delta1  =  65.7805691
+k2  =   3.6733878, delta2  = -60.3445097
+k3  =   2.0823805, delta3  =   5.4123311
+RMSD =  0.20445982
+
+___________________________________________
+
+Real data test: Original.HYDRO-1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   1.0849630, delta1  =   0.0000000
+k2  =   1.1572174, delta2  =   0.0000000
+k3  =   7.4533581, delta3  =   0.0000000
+RMSD =  3.70865305
+
+Two pass non-phased fitting:
+k1  =   1.0924345, delta1  =   0.0000000
+k2  =   1.1588216, delta2  =   0.0000000
+k3  =   7.4486085, delta3  =   0.0000000
+RMSD =  3.70864644
+
+Multi pass non-phased fitting:
+k1  =   1.0924345, delta1  =   0.0000000
+k2  =   1.1588216, delta2  =   0.0000000
+k3  =   7.4486085, delta3  =   0.0000000
+RMSD =  3.70864644
+
+One pass phased fitting:
+k1  =   4.7383654, delta1  =  76.2144994
+k2  =   2.3766614, delta2  = -60.4409474
+k3  =   7.5022136, delta3  =   8.6182594
+RMSD =  0.50920239
+
+Two pass phased fitting:
+k1  =   4.7389016, delta1  =  76.2221524
+k2  =   2.3760063, delta2  = -60.3830747
+k3  =   7.5001231, delta3  =   8.6250472
+RMSD =  0.50919581
+
+Multi pass phased fitting:
+k1  =   4.7389016, delta1  =  76.2221524
+k2  =   2.3760063, delta2  = -60.3830747
+k3  =   7.5001231, delta3  =   8.6250472
+RMSD =  0.50919581
+
+___________________________________________
+
+Real data test: Original.HYDRO0.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   3.4576965, delta1  =   0.0000000
+k2  =   1.3615176, delta2  =   0.0000000
+k3  =   8.2044765, delta3  =   0.0000000
+RMSD =  1.64781651
+
+Two pass non-phased fitting:
+k1  =   3.4576977, delta1  =   0.0000000
+k2  =   1.3615184, delta2  =   0.0000000
+k3  =   8.2044723, delta3  =   0.0000000
+RMSD =  1.64781651
+
+Multi pass non-phased fitting:
+k1  =   3.4576977, delta1  =   0.0000000
+k2  =   1.3615184, delta2  =   0.0000000
+k3  =   8.2044723, delta3  =   0.0000000
+RMSD =  1.64781651
+
+One pass phased fitting:
+k1  =   4.0802490, delta1  =  32.1143487
+k2  =   1.5252737, delta2  = -26.6454195
+k3  =   8.2051982, delta3  =   1.4118958
+RMSD =  0.32869372
+
+Two pass phased fitting:
+k1  =   4.0800871, delta1  =  32.1169720
+k2  =   1.5255515, delta2  = -26.6462448
+k3  =   8.2049621, delta3  =   1.4134469
+RMSD =  0.32869353
+
+Multi pass phased fitting:
+k1  =   4.0800871, delta1  =  32.1169720
+k2  =   1.5255515, delta2  = -26.6462448
+k3  =   8.2049621, delta3  =   1.4134469
+RMSD =  0.32869353
+
+___________________________________________
+
+Real data test: Original.HYDRO1.aa
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.2250910, delta1  =   0.0000000
+k2  =   2.2559252, delta2  =   0.0000000
+k3  =   2.4240483, delta3  =   0.0000000
+RMSD =  3.70384698
+
+Two pass non-phased fitting:
+k1  =   5.1645238, delta1  =   0.0000000
+k2  =   2.1933508, delta2  =   0.0000000
+k3  =   2.3620271, delta3  =   0.0000000
+RMSD =  3.70299210
+
+Multi pass non-phased fitting:
+k1  =   5.1645238, delta1  =   0.0000000
+k2  =   2.1933508, delta2  =   0.0000000
+k3  =   2.3620271, delta3  =   0.0000000
+RMSD =  3.70299210
+
+One pass phased fitting:
+k1  =   5.2048978, delta1  =   0.5556311
+k2  =   5.2830277, delta2  = -65.1397524
+k3  =   2.4618773, delta3  =  -9.1057888
+RMSD =  1.41365039
+
+Two pass phased fitting:
+k1  =   5.1421523, delta1  =   0.6568444
+k2  =   5.2605182, delta2  = -65.5920267
+k3  =   2.4023472, delta3  =  -9.5674874
+RMSD =  1.41155969
+
+Multi pass phased fitting:
+k1  =   5.1421523, delta1  =   0.6568444
+k2  =   5.2605182, delta2  = -65.5920267
+k3  =   2.4023472, delta3  =  -9.5674874
+RMSD =  1.41155969
+
+___________________________________________
+
+Real data test: Original.HYDRO1.ua
+___________________________________________
+One pass non-phased fitting:
+k1  =   6.1514746, delta1  =   0.0000000
+k2  =   1.6795233, delta2  =   0.0000000
+k3  =   1.2769318, delta3  =   0.0000000
+RMSD =  3.98060034
+
+Two pass non-phased fitting:
+k1  =   6.1463349, delta1  =   0.0000000
+k2  =   1.6799817, delta2  =   0.0000000
+k3  =   1.2833923, delta3  =   0.0000000
+RMSD =  3.98059534
+
+Multi pass non-phased fitting:
+k1  =   6.1463349, delta1  =   0.0000000
+k2  =   1.6799817, delta2  =   0.0000000
+k3  =   1.2833923, delta3  =   0.0000000
+RMSD =  3.98059534
+
+One pass phased fitting:
+k1  =   6.1351743, delta1  =   1.2953031
+k2  =   5.7015763, delta2  = -73.6159942
+k3  =   1.3172474, delta3  =  14.7390919
+RMSD =  0.80685013
+
+Two pass phased fitting:
+k1  =   6.1279997, delta1  =   1.4051455
+k2  =   5.7025023, delta2  = -73.4048756
+k3  =   1.3240591, delta3  =  13.9035770
+RMSD =  0.80657332
+
+Multi pass phased fitting:
+k1  =   6.1279997, delta1  =   1.4051455
+k2  =   5.7025023, delta2  = -73.4048756
+k3  =   1.3240591, delta3  =  13.9035770
+RMSD =  0.80657332
+
+___________________________________________
+
+Real data test: Original.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   3.6501850, delta1  =   0.0000000
+k2  =   1.5498896, delta2  =   0.0000000
+k3  =   6.3910585, delta3  =   0.0000000
+RMSD =  3.65352528
+
+Two pass non-phased fitting:
+k1  =   3.6502586, delta1  =   0.0000000
+k2  =   1.5498079, delta2  =   0.0000000
+k3  =   6.3911535, delta3  =   0.0000000
+RMSD =  3.65352528
+
+Multi pass non-phased fitting:
+k1  =   3.6502586, delta1  =   0.0000000
+k2  =   1.5498079, delta2  =   0.0000000
+k3  =   6.3911535, delta3  =   0.0000000
+RMSD =  3.65352528
+
+One pass phased fitting:
+k1  =   4.3230521, delta1  =  32.5044845
+k2  =   4.6709481, delta2  = -70.5645955
+k3  =   6.4061207, delta3  =   4.4600959
+RMSD =  0.91021912
+
+Two pass phased fitting:
+k1  =   4.3214333, delta1  =  32.5128057
+k2  =   4.6708697, delta2  = -70.5422243
+k3  =   6.4043677, delta3  =   4.4521531
+RMSD =  0.91021630
+
+Multi pass phased fitting:
+k1  =   4.3214333, delta1  =  32.5128057
+k2  =   4.6708697, delta2  = -70.5422243
+k3  =   6.4043677, delta3  =   4.4521531
+RMSD =  0.91021630
+
+___________________________________________
+
+Real data test: Original.HYDRO2.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   0.9118387, delta1  = 180.0000000
+k2  =   3.5001589, delta2  =   0.0000000
+k3  =   7.4422674, delta3  =   0.0000000
+RMSD =  4.21850360
+
+Two pass non-phased fitting:
+k1  =   0.9118552, delta1  = 180.0000000
+k2  =   3.5001806, delta2  =   0.0000000
+k3  =   7.4422372, delta3  =   0.0000000
+RMSD =  4.21850360
+
+Multi pass non-phased fitting:
+k1  =   0.9118552, delta1  = 180.0000000
+k2  =   3.5001806, delta2  =   0.0000000
+k3  =   7.4422372, delta3  =   0.0000000
+RMSD =  4.21850360
+
+One pass phased fitting:
+k1  =   4.6670489, delta1  = -101.2548125
+k2  =   4.7391313, delta2  =  42.4078122
+k3  =   7.5228892, delta3  =  -8.3456828
+RMSD =  1.27270913
+
+Two pass phased fitting:
+k1  =   4.6656092, delta1  = -101.1841190
+k2  =   4.7343677, delta2  =  42.4509108
+k3  =   7.5286070, delta3  =  -8.3325635
+RMSD =  1.27268824
+
+Multi pass phased fitting:
+k1  =   4.6656092, delta1  = -101.1841190
+k2  =   4.7343677, delta2  =  42.4509108
+k3  =   7.5286070, delta3  =  -8.3325635
+RMSD =  1.27268824
+
+___________________________________________
+
+Real data test: Original.METH-1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   1.6708296, delta1  =   0.0000000
+k2  =   1.3644689, delta2  =   0.0000000
+k3  =   8.0524261, delta3  =   0.0000000
+RMSD =  3.66568839
+
+Two pass non-phased fitting:
+k1  =   1.6854159, delta1  =   0.0000000
+k2  =   1.3727559, delta2  =   0.0000000
+k3  =   8.0525248, delta3  =   0.0000000
+RMSD =  3.66567140
+
+Multi pass non-phased fitting:
+k1  =   1.6854159, delta1  =   0.0000000
+k2  =   1.3727559, delta2  =   0.0000000
+k3  =   8.0525248, delta3  =   0.0000000
+RMSD =  3.66567140
+
+One pass phased fitting:
+k1  =   4.7466514, delta1  =  68.7219854
+k2  =   2.5459271, delta2  = -56.5850700
+k3  =   8.1752447, delta3  =  10.1405934
+RMSD =  0.47305840
+
+Two pass phased fitting:
+k1  =   4.7491467, delta1  =  68.7045487
+k2  =   2.5443703, delta2  = -56.4707147
+k3  =   8.1745500, delta3  =  10.1652347
+RMSD =  0.47305428
+
+Multi pass phased fitting:
+k1  =   4.7491467, delta1  =  68.7045487
+k2  =   2.5443703, delta2  = -56.4707147
+k3  =   8.1745500, delta3  =  10.1652347
+RMSD =  0.47305428
+
+___________________________________________
+
+Real data test: Original.METH0.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   2.6579347, delta1  =   0.0000000
+k2  =   1.7090665, delta2  =   0.0000000
+k3  =   8.0905296, delta3  =   0.0000000
+RMSD =  3.23881053
+
+Two pass non-phased fitting:
+k1  =   2.6579988, delta1  =   0.0000000
+k2  =   1.7089973, delta2  =   0.0000000
+k3  =   8.0906074, delta3  =   0.0000000
+RMSD =  3.23881052
+
+Multi pass non-phased fitting:
+k1  =   2.6579988, delta1  =   0.0000000
+k2  =   1.7089973, delta2  =   0.0000000
+k3  =   8.0906074, delta3  =   0.0000000
+RMSD =  3.23881052
+
+One pass phased fitting:
+k1  =   4.7557818, delta1  =  56.0773772
+k2  =   2.5509543, delta2  = -47.8182232
+k3  =   8.1710739, delta3  =   8.2423463
+RMSD =  0.48224859
+
+Two pass phased fitting:
+k1  =   4.7547456, delta1  =  56.0910555
+k2  =   2.5516360, delta2  = -47.7861989
+k3  =   8.1694877, delta3  =   8.2391456
+RMSD =  0.48224464
+
+Multi pass phased fitting:
+k1  =   4.7547456, delta1  =  56.0910555
+k2  =   2.5516360, delta2  = -47.7861989
+k3  =   8.1694877, delta3  =   8.2391456
+RMSD =  0.48224464
+
+___________________________________________
+
+Real data test: Original.METH1.aa
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.6799050, delta1  =   0.0000000
+k2  =   2.8787979, delta2  =   0.0000000
+k3  =   2.8375355, delta3  =   0.0000000
+RMSD =  3.67046249
+
+Two pass non-phased fitting:
+k1  =   4.6191930, delta1  =   0.0000000
+k2  =   2.8192642, delta2  =   0.0000000
+k3  =   2.7841123, delta3  =   0.0000000
+RMSD =  3.66966624
+
+Multi pass non-phased fitting:
+k1  =   4.6191930, delta1  =   0.0000000
+k2  =   2.8192642, delta2  =   0.0000000
+k3  =   2.7841123, delta3  =   0.0000000
+RMSD =  3.66966624
+
+One pass phased fitting:
+k1  =   4.7114497, delta1  =   7.4442751
+k2  =   5.6915467, delta2  = -59.8818152
+k3  =   2.8809955, delta3  =  -3.4680106
+RMSD =  1.02000133
+
+Two pass phased fitting:
+k1  =   4.6529482, delta1  =   7.4971021
+k2  =   5.6635503, delta2  = -60.3030820
+k3  =   2.8235050, delta3  =  -3.5890735
+RMSD =  1.01718168
+
+Multi pass phased fitting:
+k1  =   4.6529482, delta1  =   7.4971021
+k2  =   5.6635503, delta2  = -60.3030820
+k3  =   2.8235050, delta3  =  -3.5890735
+RMSD =  1.01718168
+
+___________________________________________
+
+Real data test: Original.METH1.ua
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.9175439, delta1  =   0.0000000
+k2  =   1.8117680, delta2  =   0.0000000
+k3  =   1.5146415, delta3  =   0.0000000
+RMSD =  4.18989569
+
+Two pass non-phased fitting:
+k1  =   5.9154740, delta1  =   0.0000000
+k2  =   1.8027449, delta2  =   0.0000000
+k3  =   1.5154691, delta3  =   0.0000000
+RMSD =  4.18988590
+
+Multi pass non-phased fitting:
+k1  =   5.9154740, delta1  =   0.0000000
+k2  =   1.8027449, delta2  =   0.0000000
+k3  =   1.5154691, delta3  =   0.0000000
+RMSD =  4.18988590
+
+One pass phased fitting:
+k1  =   5.9753498, delta1  =   2.8237575
+k2  =   6.0621965, delta2  = -72.2531779
+k3  =   1.3711669, delta3  =   3.9841486
+RMSD =  0.46359686
+
+Two pass phased fitting:
+k1  =   5.9667960, delta1  =   3.0244433
+k2  =   6.0757373, delta2  = -72.1738286
+k3  =   1.3830583, delta3  =   3.1637763
+RMSD =  0.46261339
+
+Multi pass phased fitting:
+k1  =   5.9667960, delta1  =   3.0244433
+k2  =   6.0757373, delta2  = -72.1738286
+k3  =   1.3830583, delta3  =   3.1637763
+RMSD =  0.46261339
+
+___________________________________________
+
+Real data test: Original.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.4971066, delta1  =   0.0000000
+k2  =   1.9205346, delta2  =   0.0000000
+k3  =   7.2859757, delta3  =   0.0000000
+RMSD =  3.64083782
+
+Two pass non-phased fitting:
+k1  =   4.4971813, delta1  =   0.0000000
+k2  =   1.9204497, delta2  =   0.0000000
+k3  =   7.2860777, delta3  =   0.0000000
+RMSD =  3.64083782
+
+Multi pass non-phased fitting:
+k1  =   4.4971813, delta1  =   0.0000000
+k2  =   1.9204497, delta2  =   0.0000000
+k3  =   7.2860777, delta3  =   0.0000000
+RMSD =  3.64083782
+
+One pass phased fitting:
+k1  =   4.9693893, delta1  =  25.3172242
+k2  =   4.6326955, delta2  = -65.4402878
+k3  =   7.3767431, delta3  =   9.2425099
+RMSD =  1.19334889
+
+Two pass phased fitting:
+k1  =   4.9676227, delta1  =  25.3214131
+k2  =   4.6326426, delta2  = -65.4163123
+k3  =   7.3748374, delta3  =   9.2348368
+RMSD =  1.19334644
+
+Multi pass phased fitting:
+k1  =   4.9676227, delta1  =  25.3214131
+k2  =   4.6326426, delta2  = -65.4163123
+k3  =   7.3748374, delta3  =   9.2348368
+RMSD =  1.19334644
+
+___________________________________________
+
+Real data test: Original.METH2.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   0.7088678, delta1  = 180.0000000
+k2  =   3.5579187, delta2  =   0.0000000
+k3  =   7.3436218, delta3  =   0.0000000
+RMSD =  4.33153153
+
+Two pass non-phased fitting:
+k1  =   0.7088823, delta1  = 180.0000000
+k2  =   3.5579379, delta2  =   0.0000000
+k3  =   7.3435949, delta3  =   0.0000000
+RMSD =  4.33153153
+
+Multi pass non-phased fitting:
+k1  =   0.7088823, delta1  = 180.0000000
+k2  =   3.5579379, delta2  =   0.0000000
+k3  =   7.3435949, delta3  =   0.0000000
+RMSD =  4.33153153
+
+One pass phased fitting:
+k1  =   4.8801374, delta1  = -98.3455340
+k2  =   4.6690258, delta2  =  40.3673349
+k3  =   7.4382328, delta3  =  -9.1214161
+RMSD =  1.35675330
+
+Two pass phased fitting:
+k1  =   4.8789333, delta1  = -98.2714456
+k2  =   4.6637811, delta2  =  40.4131046
+k3  =   7.4444170, delta3  =  -9.1072363
+RMSD =  1.35673038
+
+Multi pass phased fitting:
+k1  =   4.8789333, delta1  = -98.2714456
+k2  =   4.6637811, delta2  =  40.4131046
+k3  =   7.4444170, delta3  =  -9.1072363
+RMSD =  1.35673038
+
+___________________________________________
+
+Real data test: Original.THIO-1.aa
+___________________________________________
+One pass non-phased fitting:
+k1  =   1.2408930, delta1  =   0.0000000
+k2  =   1.6931588, delta2  =   0.0000000
+k3  =   3.0909298, delta3  =   0.0000000
+RMSD =  2.96090587
+
+Two pass non-phased fitting:
+k1  =   1.2439116, delta1  =   0.0000000
+k2  =   1.6953269, delta2  =   0.0000000
+k3  =   3.0896233, delta3  =   0.0000000
+RMSD =  2.96090628
+
+Multi pass non-phased fitting:
+k1  =   1.2439116, delta1  =   0.0000000
+k2  =   1.6953269, delta2  =   0.0000000
+k3  =   3.0896233, delta3  =   0.0000000
+RMSD =  2.96090628
+
+One pass phased fitting:
+k1  =   3.5070522, delta1  =  69.8399035
+k2  =   2.9917453, delta2  = -54.9192301
+k3  =   3.1431932, delta3  =  13.5464118
+RMSD =  0.19952492
+
+Two pass phased fitting:
+k1  =   3.5126378, delta1  =  69.8002940
+k2  =   2.9958357, delta2  = -54.9201172
+k3  =   3.1432384, delta3  =  13.5694121
+RMSD =  0.19953661
+
+Multi pass phased fitting:
+k1  =   3.5126378, delta1  =  69.8002940
+k2  =   2.9958357, delta2  = -54.9201172
+k3  =   3.1432384, delta3  =  13.5694121
+RMSD =  0.19953661
+
+___________________________________________
+
+Real data test: Original.THIO-1.ua
+___________________________________________
+One pass non-phased fitting:
+k1  =   2.5028713, delta1  =   0.0000000
+k2  =   1.8110324, delta2  =   0.0000000
+k3  =   2.0440598, delta3  =   0.0000000
+RMSD =  4.09944256
+
+Two pass non-phased fitting:
+k1  =   2.5071505, delta1  =   0.0000000
+k2  =   1.8171491, delta2  =   0.0000000
+k3  =   2.0491938, delta3  =   0.0000000
+RMSD =  4.09944331
+
+Multi pass non-phased fitting:
+k1  =   2.5071505, delta1  =   0.0000000
+k2  =   1.8171491, delta2  =   0.0000000
+k3  =   2.0491938, delta3  =   0.0000000
+RMSD =  4.09944331
+
+One pass phased fitting:
+k1  =   5.3513392, delta1  =  62.3642674
+k2  =   3.7238651, delta2  = -61.0502901
+k3  =   2.0954402, delta3  =   6.5210516
+RMSD =  0.17624608
+
+Two pass phased fitting:
+k1  =   5.3518841, delta1  =  62.3111406
+k2  =   3.7285832, delta2  = -60.9752725
+k3  =   2.1011220, delta3  =   6.4869707
+RMSD =  0.17626662
+
+Multi pass phased fitting:
+k1  =   5.3518841, delta1  =  62.3111406
+k2  =   3.7285832, delta2  = -60.9752725
+k3  =   2.1011220, delta3  =   6.4869707
+RMSD =  0.17626662
+
+___________________________________________
+
+Real data test: Original.THIO-1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   1.2409854, delta1  =   0.0000000
+k2  =   1.4076513, delta2  =   0.0000000
+k3  =   8.0159486, delta3  =   0.0000000
+RMSD =  3.73278096
+
+Two pass non-phased fitting:
+k1  =   1.2410613, delta1  =   0.0000000
+k2  =   1.4075683, delta2  =   0.0000000
+k3  =   8.0160435, delta3  =   0.0000000
+RMSD =  3.73278096
+
+Multi pass non-phased fitting:
+k1  =   1.2410613, delta1  =   0.0000000
+k2  =   1.4075683, delta2  =   0.0000000
+k3  =   8.0160435, delta3  =   0.0000000
+RMSD =  3.73278096
+
+One pass phased fitting:
+k1  =   4.6996919, delta1  =  74.7518862
+k2  =   2.6691154, delta2  = -58.0454789
+k3  =   8.1198628, delta3  =   9.3933485
+RMSD =  0.46343920
+
+Two pass phased fitting:
+k1  =   4.6990660, delta1  =  74.7658909
+k2  =   2.6692730, delta2  = -58.0155848
+k3  =   8.1184801, delta3  =   9.3884871
+RMSD =  0.46343591
+
+Multi pass phased fitting:
+k1  =   4.6990660, delta1  =  74.7658909
+k2  =   2.6692730, delta2  = -58.0155848
+k3  =   8.1184801, delta3  =   9.3884871
+RMSD =  0.46343591
+
+___________________________________________
+
+Real data test: Original.THIO0.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   2.5778130, delta1  =   0.0000000
+k2  =   1.4835606, delta2  =   0.0000000
+k3  =   9.0308837, delta3  =   0.0000000
+RMSD =  3.35607591
+
+Two pass non-phased fitting:
+k1  =   2.5778860, delta1  =   0.0000000
+k2  =   1.4834807, delta2  =   0.0000000
+k3  =   9.0309751, delta3  =   0.0000000
+RMSD =  3.35607590
+
+Multi pass non-phased fitting:
+k1  =   2.5778860, delta1  =   0.0000000
+k2  =   1.4834807, delta2  =   0.0000000
+k3  =   9.0309751, delta3  =   0.0000000
+RMSD =  3.35607590
+
+One pass phased fitting:
+k1  =   4.5861254, delta1  =  55.8829833
+k2  =   2.9947636, delta2  = -60.1831655
+k3  =   9.0824530, delta3  =   6.4274264
+RMSD =  0.40694480
+
+Two pass phased fitting:
+k1  =   4.5857627, delta1  =  55.8835023
+k2  =   2.9943977, delta2  = -60.1740675
+k3  =   9.0821429, delta3  =   6.4223732
+RMSD =  0.40694404
+
+Multi pass phased fitting:
+k1  =   4.5857627, delta1  =  55.8835023
+k2  =   2.9943977, delta2  = -60.1740675
+k3  =   9.0821429, delta3  =   6.4223732
+RMSD =  0.40694404
+
+___________________________________________
+
+Real data test: Original.THIO1.aa
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.5811757, delta1  =   0.0000000
+k2  =   2.3195833, delta2  =   0.0000000
+k3  =   2.6006611, delta3  =   0.0000000
+RMSD =  3.53096934
+
+Two pass non-phased fitting:
+k1  =   4.5297438, delta1  =   0.0000000
+k2  =   2.2647697, delta2  =   0.0000000
+k3  =   2.5480887, delta3  =   0.0000000
+RMSD =  3.53029325
+
+Multi pass non-phased fitting:
+k1  =   4.5297438, delta1  =   0.0000000
+k2  =   2.2647697, delta2  =   0.0000000
+k3  =   2.5480887, delta3  =   0.0000000
+RMSD =  3.53029325
+
+One pass phased fitting:
+k1  =   4.5995884, delta1  =   6.0124187
+k2  =   5.2407339, delta2  = -64.2268115
+k3  =   2.6652542, delta3  = -11.5101579
+RMSD =  0.96732493
+
+Two pass phased fitting:
+k1  =   4.5525950, delta1  =   6.0327767
+k2  =   5.2305429, delta2  = -64.7022527
+k3  =   2.6099290, delta3  = -11.9952735
+RMSD =  0.96492378
+
+Multi pass phased fitting:
+k1  =   4.5525950, delta1  =   6.0327767
+k2  =   5.2305429, delta2  = -64.7022527
+k3  =   2.6099290, delta3  = -11.9952735
+RMSD =  0.96492378
+
+___________________________________________
+
+Real data test: Original.THIO1.ua
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.7472448, delta1  =   0.0000000
+k2  =   1.3448848, delta2  =   0.0000000
+k3  =   1.4042361, delta3  =   0.0000000
+RMSD =  4.23053395
+
+Two pass non-phased fitting:
+k1  =   5.7416638, delta1  =   0.0000000
+k2  =   1.3518356, delta2  =   0.0000000
+k3  =   1.4132062, delta3  =   0.0000000
+RMSD =  4.23052747
+
+Multi pass non-phased fitting:
+k1  =   5.7416638, delta1  =   0.0000000
+k2  =   1.3518356, delta2  =   0.0000000
+k3  =   1.4132062, delta3  =   0.0000000
+RMSD =  4.23052747
+
+One pass phased fitting:
+k1  =   5.7489484, delta1  =   4.7004798
+k2  =   5.8881036, delta2  = -77.6477313
+k3  =   1.4200964, delta3  =   9.2512508
+RMSD =  0.98412462
+
+Two pass phased fitting:
+k1  =   5.7436919, delta1  =   4.8451065
+k2  =   5.8884366, delta2  = -77.3966681
+k3  =   1.4307511, delta3  =   8.4267519
+RMSD =  0.98382978
+
+Multi pass phased fitting:
+k1  =   5.7436919, delta1  =   4.8451065
+k2  =   5.8884366, delta2  = -77.3966681
+k3  =   1.4307511, delta3  =   8.4267519
+RMSD =  0.98382978
+
+___________________________________________
+
+Real data test: Original.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.2309497, delta1  =   0.0000000
+k2  =   1.6978399, delta2  =   0.0000000
+k3  =   7.1346760, delta3  =   0.0000000
+RMSD =  3.81108504
+
+Two pass non-phased fitting:
+k1  =   4.2310253, delta1  =   0.0000000
+k2  =   1.6977544, delta2  =   0.0000000
+k3  =   7.1347781, delta3  =   0.0000000
+RMSD =  3.81108504
+
+Multi pass non-phased fitting:
+k1  =   4.2310253, delta1  =   0.0000000
+k2  =   1.6977544, delta2  =   0.0000000
+k3  =   7.1347781, delta3  =   0.0000000
+RMSD =  3.81108504
+
+One pass phased fitting:
+k1  =   4.7885299, delta1  =  28.0747674
+k2  =   4.8734520, delta2  = -69.5378405
+k3  =   7.1994638, delta3  =   8.0332789
+RMSD =  1.02957033
+
+Two pass phased fitting:
+k1  =   4.7874236, delta1  =  28.0763082
+k2  =   4.8730481, delta2  = -69.5231911
+k3  =   7.1982948, delta3  =   8.0247791
+RMSD =  1.02956899
+
+Multi pass phased fitting:
+k1  =   4.7874236, delta1  =  28.0763082
+k2  =   4.8730481, delta2  = -69.5231911
+k3  =   7.1982948, delta3  =   8.0247791
+RMSD =  1.02956899
+
+___________________________________________
+
+Real data test: Original.THIO2.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   0.7769123, delta1  = 180.0000000
+k2  =   3.5520863, delta2  =   0.0000000
+k3  =   7.3298418, delta3  =   0.0000000
+RMSD =  4.36793086
+
+Two pass non-phased fitting:
+k1  =   0.7752910, delta1  = 180.0000000
+k2  =   3.5509499, delta2  =   0.0000000
+k3  =   7.3302704, delta3  =   0.0000000
+RMSD =  4.36793052
+
+Multi pass non-phased fitting:
+k1  =   0.7752910, delta1  = 180.0000000
+k2  =   3.5509499, delta2  =   0.0000000
+k3  =   7.3302704, delta3  =   0.0000000
+RMSD =  4.36793052
+
+One pass phased fitting:
+k1  =   4.9032716, delta1  = -97.9901088
+k2  =   4.7132209, delta2  =  42.3349874
+k3  =   7.4451386, delta3  =  -8.7774909
+RMSD =  1.21890889
+
+Two pass phased fitting:
+k1  =   4.9217176, delta1  = -97.1994115
+k2  =   4.7117196, delta2  =  43.1690319
+k3  =   7.4773440, delta3  =  -9.2215530
+RMSD =  1.21641390
+
+Multi pass phased fitting:
+k1  =   4.9217176, delta1  = -97.1994115
+k2  =   4.7117196, delta2  =  43.1690319
+k3  =   7.4773440, delta3  =  -9.2215530
+RMSD =  1.21641390
+
+___________________________________________
+
+Real data test: ThetaAllFixed.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.0145061, delta1  =   0.0000000
+k2  =   1.6835153, delta2  =   0.0000000
+k3  =   6.7072633, delta3  =   0.0000000
+RMSD =  3.80516596
+
+Two pass non-phased fitting:
+k1  =   4.0145749, delta1  =   0.0000000
+k2  =   1.6834377, delta2  =   0.0000000
+k3  =   6.7073556, delta3  =   0.0000000
+RMSD =  3.80516595
+
+Multi pass non-phased fitting:
+k1  =   4.0145749, delta1  =   0.0000000
+k2  =   1.6834377, delta2  =   0.0000000
+k3  =   6.7073556, delta3  =   0.0000000
+RMSD =  3.80516595
+
+One pass phased fitting:
+k1  =   4.6747112, delta1  =  30.9377728
+k2  =   4.8119465, delta2  = -69.4590835
+k3  =   6.7491164, delta3  =   6.7464236
+RMSD =  1.06273244
+
+Two pass phased fitting:
+k1  =   4.6730359, delta1  =  30.9447648
+k2  =   4.8118537, delta2  = -69.4367917
+k3  =   6.7472930, delta3  =   6.7387125
+RMSD =  1.06272990
+
+Multi pass phased fitting:
+k1  =   4.6730359, delta1  =  30.9447648
+k2  =   4.8118537, delta2  = -69.4367917
+k3  =   6.7472930, delta3  =   6.7387125
+RMSD =  1.06272990
+
+___________________________________________
+
+Real data test: ThetaAllFixed.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.2299113, delta1  =   0.0000000
+k2  =   1.4433386, delta2  =   0.0000000
+k3  =   6.7571249, delta3  =   0.0000000
+RMSD =  3.78120929
+
+Two pass non-phased fitting:
+k1  =   4.2299883, delta1  =   0.0000000
+k2  =   1.4432512, delta2  =   0.0000000
+k3  =   6.7572295, delta3  =   0.0000000
+RMSD =  3.78120929
+
+Multi pass non-phased fitting:
+k1  =   4.2299883, delta1  =   0.0000000
+k2  =   1.4432512, delta2  =   0.0000000
+k3  =   6.7572295, delta3  =   0.0000000
+RMSD =  3.78120929
+
+One pass phased fitting:
+k1  =   4.8184894, delta1  =  28.7491300
+k2  =   4.7231774, delta2  = -72.1380588
+k3  =   6.8083051, delta3  =   7.3899939
+RMSD =  1.06249287
+
+Two pass phased fitting:
+k1  =   4.8171491, delta1  =  28.7521370
+k2  =   4.7227668, delta2  = -72.1200649
+k3  =   6.8068853, delta3  =   7.3807762
+RMSD =  1.06249111
+
+Multi pass phased fitting:
+k1  =   4.8171491, delta1  =  28.7521370
+k2  =   4.7227668, delta2  = -72.1200649
+k3  =   6.8068853, delta3  =   7.3807762
+RMSD =  1.06249111
+
+___________________________________________
+
+Real data test: ThetaAllFixed.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   3.6698517, delta1  =   0.0000000
+k2  =   1.6096787, delta2  =   0.0000000
+k3  =   6.4156772, delta3  =   0.0000000
+RMSD =  3.66871097
+
+Two pass non-phased fitting:
+k1  =   3.6699271, delta1  =   0.0000000
+k2  =   1.6095946, delta2  =   0.0000000
+k3  =   6.4157758, delta3  =   0.0000000
+RMSD =  3.66871097
+
+Multi pass non-phased fitting:
+k1  =   3.6699271, delta1  =   0.0000000
+k2  =   1.6095946, delta2  =   0.0000000
+k3  =   6.4157758, delta3  =   0.0000000
+RMSD =  3.66871097
+
+One pass phased fitting:
+k1  =   4.3450227, delta1  =  32.4888093
+k2  =   4.6909659, delta2  = -69.8684985
+k3  =   6.4482738, delta3  =   6.1766285
+RMSD =  0.89455218
+
+Two pass phased fitting:
+k1  =   4.3435697, delta1  =  32.4953152
+k2  =   4.6907917, delta2  = -69.8484498
+k3  =   6.4466997, delta3  =   6.1683723
+RMSD =  0.89454982
+
+Multi pass phased fitting:
+k1  =   4.3435697, delta1  =  32.4953152
+k2  =   4.6907917, delta2  = -69.8484498
+k3  =   6.4466997, delta3  =   6.1683723
+RMSD =  0.89454982
+
+___________________________________________
+
+Real data test: ThetaAllFixed.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.3772870, delta1  =   0.0000000
+k2  =   1.9960897, delta2  =   0.0000000
+k3  =   7.3637870, delta3  =   0.0000000
+RMSD =  3.70219510
+
+Two pass non-phased fitting:
+k1  =   4.3773807, delta1  =   0.0000000
+k2  =   1.9959826, delta2  =   0.0000000
+k3  =   7.3639165, delta3  =   0.0000000
+RMSD =  3.70219509
+
+Multi pass non-phased fitting:
+k1  =   4.3773807, delta1  =   0.0000000
+k2  =   1.9959826, delta2  =   0.0000000
+k3  =   7.3639165, delta3  =   0.0000000
+RMSD =  3.70219509
+
+One pass phased fitting:
+k1  =   4.8548682, delta1  =  25.7974170
+k2  =   4.6754974, delta2  = -64.6425200
+k3  =   7.5260978, delta3  =  12.1493611
+RMSD =  1.14097354
+
+Two pass phased fitting:
+k1  =   4.8536766, delta1  =  25.7971255
+k2  =   4.6749691, delta2  = -64.6252381
+k3  =   7.5247552, delta3  =  12.1389308
+RMSD =  1.14097191
+
+Multi pass phased fitting:
+k1  =   4.8536766, delta1  =  25.7971255
+k2  =   4.6749691, delta2  = -64.6252381
+k3  =   7.5247552, delta3  =  12.1389308
+RMSD =  1.14097191
+
+___________________________________________
+
+Real data test: ThetaAllFixed.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.2292428, delta1  =   0.0000000
+k2  =   1.7075166, delta2  =   0.0000000
+k3  =   7.1947179, delta3  =   0.0000000
+RMSD =  3.82763370
+
+Two pass non-phased fitting:
+k1  =   4.2293225, delta1  =   0.0000000
+k2  =   1.7074261, delta2  =   0.0000000
+k3  =   7.1948264, delta3  =   0.0000000
+RMSD =  3.82763369
+
+Multi pass non-phased fitting:
+k1  =   4.2293225, delta1  =   0.0000000
+k2  =   1.7074261, delta2  =   0.0000000
+k3  =   7.1948264, delta3  =   0.0000000
+RMSD =  3.82763369
+
+One pass phased fitting:
+k1  =   4.7723804, delta1  =  27.7602576
+k2  =   4.8916532, delta2  = -69.4929445
+k3  =   7.2738549, delta3  =   8.7818942
+RMSD =  1.03605667
+
+Two pass phased fitting:
+k1  =   4.7713740, delta1  =  27.7606924
+k2  =   4.8911492, delta2  = -69.4795292
+k3  =   7.2727883, delta3  =   8.7727522
+RMSD =  1.03605544
+
+Multi pass phased fitting:
+k1  =   4.7713740, delta1  =  27.7606924
+k2  =   4.8911492, delta2  = -69.4795292
+k3  =   7.2727883, delta3  =   8.7727522
+RMSD =  1.03605544
+
+___________________________________________
+
+Real data test: 30PsiBothCarbonFixed.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   9.9710031, delta1  =   0.0000000
+k2  =   5.4285812, delta2  =   0.0000000
+k3  =   8.8364877, delta3  =   0.0000000
+RMSD =  4.53093865
+
+Two pass non-phased fitting:
+k1  =   9.9710400, delta1  =   0.0000000
+k2  =   5.4285443, delta2  =   0.0000000
+k3  =   8.8365245, delta3  =   0.0000000
+RMSD =  4.53093865
+
+Multi pass non-phased fitting:
+k1  =   9.9710400, delta1  =   0.0000000
+k2  =   5.4285443, delta2  =   0.0000000
+k3  =   8.8365245, delta3  =   0.0000000
+RMSD =  4.53093865
+
+One pass phased fitting:
+k1  =  10.0460709, delta1  =   7.1625976
+k2  =   7.9007099, delta2  = -46.5657607
+k3  =   8.8350168, delta3  =  -1.1739611
+RMSD =  1.80851345
+
+Two pass phased fitting:
+k1  =  10.0435455, delta1  =   7.1641510
+k2  =   7.9023905, delta2  = -46.5519504
+k3  =   8.8324836, delta3  =  -1.1751674
+RMSD =  1.80851077
+
+Multi pass phased fitting:
+k1  =  10.0435455, delta1  =   7.1641510
+k2  =   7.9023905, delta2  = -46.5519504
+k3  =   8.8324836, delta3  =  -1.1751674
+RMSD =  1.80851077
+
+___________________________________________
+
+Real data test: 30PsiBothCarbonFixed.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  10.1055147, delta1  =   0.0000000
+k2  =   5.0350378, delta2  =   0.0000000
+k3  =   8.7687928, delta3  =   0.0000000
+RMSD =  4.72969217
+
+Two pass non-phased fitting:
+k1  =  10.1055582, delta1  =   0.0000000
+k2  =   5.0349926, delta2  =   0.0000000
+k3  =   8.7688408, delta3  =   0.0000000
+RMSD =  4.72969217
+
+Multi pass non-phased fitting:
+k1  =  10.1055582, delta1  =   0.0000000
+k2  =   5.0349926, delta2  =   0.0000000
+k3  =   8.7688408, delta3  =   0.0000000
+RMSD =  4.72969217
+
+One pass phased fitting:
+k1  =  10.1389741, delta1  =   4.8791206
+k2  =   7.9330418, delta2  = -50.5722018
+k3  =   8.7725050, delta3  =  -2.2873239
+RMSD =  1.77858941
+
+Two pass phased fitting:
+k1  =  10.1364499, delta1  =   4.8797232
+k2  =   7.9344757, delta2  = -50.5571442
+k3  =   8.7700035, delta3  =  -2.2901033
+RMSD =  1.77858671
+
+Multi pass phased fitting:
+k1  =  10.1364499, delta1  =   4.8797232
+k2  =   7.9344757, delta2  = -50.5571442
+k3  =   8.7700035, delta3  =  -2.2901033
+RMSD =  1.77858671
+
+___________________________________________
+
+Real data test: 30PsiBothCarbonFixed.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   9.5148692, delta1  =   0.0000000
+k2  =   5.1811829, delta2  =   0.0000000
+k3  =   8.5451037, delta3  =   0.0000000
+RMSD =  4.47808743
+
+Two pass non-phased fitting:
+k1  =   9.5149043, delta1  =   0.0000000
+k2  =   5.1811477, delta2  =   0.0000000
+k3  =   8.5451388, delta3  =   0.0000000
+RMSD =  4.47808743
+
+Multi pass non-phased fitting:
+k1  =   9.5149043, delta1  =   0.0000000
+k2  =   5.1811477, delta2  =   0.0000000
+k3  =   8.5451388, delta3  =   0.0000000
+RMSD =  4.47808743
+
+One pass phased fitting:
+k1  =   9.5700311, delta1  =   6.3072681
+k2  =   7.7436218, delta2  = -47.9755746
+k3  =   8.5509135, delta3  =  -2.5657629
+RMSD =  1.69770527
+
+Two pass phased fitting:
+k1  =   9.5673137, delta1  =   6.3087755
+k2  =   7.7453761, delta2  = -47.9601080
+k3  =   8.5481975, delta3  =  -2.5675516
+RMSD =  1.69770198
+
+Multi pass phased fitting:
+k1  =   9.5673137, delta1  =   6.3087755
+k2  =   7.7453761, delta2  = -47.9601080
+k3  =   8.5481975, delta3  =  -2.5675516
+RMSD =  1.69770198
+
+___________________________________________
+
+Real data test: 30PsiBothCarbonFixed.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  10.4987350, delta1  =   0.0000000
+k2  =   5.5546817, delta2  =   0.0000000
+k3  =   9.5080463, delta3  =   0.0000000
+RMSD =  4.61645746
+
+Two pass non-phased fitting:
+k1  =  10.4987959, delta1  =   0.0000000
+k2  =   5.5546176, delta2  =   0.0000000
+k3  =   9.5081157, delta3  =   0.0000000
+RMSD =  4.61645746
+
+Multi pass non-phased fitting:
+k1  =  10.4987959, delta1  =   0.0000000
+k2  =   5.5546176, delta2  =   0.0000000
+k3  =   9.5081157, delta3  =   0.0000000
+RMSD =  4.61645746
+
+One pass phased fitting:
+k1  =  10.5175362, delta1  =   3.8065745
+k2  =   8.1364483, delta2  = -46.9032766
+k3  =   9.5087473, delta3  =   1.8763853
+RMSD =  1.83623024
+
+Two pass phased fitting:
+k1  =  10.5154438, delta1  =   3.8064512
+k2  =   8.1376352, delta2  = -46.8910190
+k3  =   9.5066576, delta3  =   1.8738776
+RMSD =  1.83622842
+
+Multi pass phased fitting:
+k1  =  10.5154438, delta1  =   3.8064512
+k2  =   8.1376352, delta2  = -46.8910190
+k3  =   9.5066576, delta3  =   1.8738776
+RMSD =  1.83622842
+
+___________________________________________
+
+Real data test: 30PsiBothCarbonFixed.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  10.2705183, delta1  =   0.0000000
+k2  =   5.4230632, delta2  =   0.0000000
+k3  =   9.3064667, delta3  =   0.0000000
+RMSD =  4.68608256
+
+Two pass non-phased fitting:
+k1  =  10.2705669, delta1  =   0.0000000
+k2  =   5.4230129, delta2  =   0.0000000
+k3  =   9.3065198, delta3  =   0.0000000
+RMSD =  4.68608256
+
+Multi pass non-phased fitting:
+k1  =  10.2705669, delta1  =   0.0000000
+k2  =   5.4230129, delta2  =   0.0000000
+k3  =   9.3065198, delta3  =   0.0000000
+RMSD =  4.68608256
+
+One pass phased fitting:
+k1  =  10.2974229, delta1  =   4.4318784
+k2  =   8.1555022, delta2  = -48.2843810
+k3  =   9.3026880, delta3  =  -0.2697180
+RMSD =  1.76419085
+
+Two pass phased fitting:
+k1  =  10.2951331, delta1  =   4.4322632
+k2  =   8.1568620, delta2  = -48.2713886
+k3  =   9.3004088, delta3  =  -0.2717791
+RMSD =  1.76418861
+
+Multi pass phased fitting:
+k1  =  10.2951331, delta1  =   4.4322632
+k2  =   8.1568620, delta2  = -48.2713886
+k3  =   9.3004088, delta3  =  -0.2717791
+RMSD =  1.76418861
+
+___________________________________________
+
+Real data test: BothCarbonFixed.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.9184338, delta1  =   0.0000000
+k2  =   1.9187068, delta2  =   0.0000000
+k3  =   6.2913130, delta3  =   0.0000000
+RMSD =  4.11224936
+
+Two pass non-phased fitting:
+k1  =   4.9185086, delta1  =   0.0000000
+k2  =   1.9186258, delta2  =   0.0000000
+k3  =   6.2914045, delta3  =   0.0000000
+RMSD =  4.11224936
+
+Multi pass non-phased fitting:
+k1  =   4.9185086, delta1  =   0.0000000
+k2  =   1.9186258, delta2  =   0.0000000
+k3  =   6.2914045, delta3  =   0.0000000
+RMSD =  4.11224936
+
+One pass phased fitting:
+k1  =   5.2308102, delta1  =  20.0780844
+k2  =   5.7175092, delta2  = -70.3331817
+k3  =   6.3138413, delta3  =   5.4023645
+RMSD =  0.79439259
+
+Two pass phased fitting:
+k1  =   5.2294452, delta1  =  20.0803887
+k2  =   5.7174523, delta2  = -70.3186409
+k3  =   6.3124354, delta3  =   5.3961600
+RMSD =  0.79439055
+
+Multi pass phased fitting:
+k1  =   5.2294452, delta1  =  20.0803887
+k2  =   5.7174523, delta2  = -70.3186409
+k3  =   6.3124354, delta3  =   5.3961600
+RMSD =  0.79439055
+
+___________________________________________
+
+Real data test: BothCarbonFixed.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.8490107, delta1  =   0.0000000
+k2  =   1.4875325, delta2  =   0.0000000
+k3  =   6.3154224, delta3  =   0.0000000
+RMSD =  4.08502747
+
+Two pass non-phased fitting:
+k1  =   4.8490944, delta1  =   0.0000000
+k2  =   1.4874415, delta2  =   0.0000000
+k3  =   6.3155255, delta3  =   0.0000000
+RMSD =  4.08502746
+
+Multi pass non-phased fitting:
+k1  =   4.8490944, delta1  =   0.0000000
+k2  =   1.4874415, delta2  =   0.0000000
+k3  =   6.3155255, delta3  =   0.0000000
+RMSD =  4.08502746
+
+One pass phased fitting:
+k1  =   5.1694201, delta1  =  20.4807570
+k2  =   5.5111258, delta2  = -74.2722660
+k3  =   6.3770287, delta3  =   8.3716732
+RMSD =  0.74428824
+
+Two pass phased fitting:
+k1  =   5.1684414, delta1  =  20.4812376
+k2  =   5.5107954, delta2  = -74.2613171
+k3  =   6.3759958, delta3  =   8.3648183
+RMSD =  0.74428694
+
+Multi pass phased fitting:
+k1  =   5.1684414, delta1  =  20.4812376
+k2  =   5.5107954, delta2  = -74.2613171
+k3  =   6.3759958, delta3  =   8.3648183
+RMSD =  0.74428694
+
+___________________________________________
+
+Real data test: BothCarbonFixed.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.2780460, delta1  =   0.0000000
+k2  =   1.7775815, delta2  =   0.0000000
+k3  =   6.1302799, delta3  =   0.0000000
+RMSD =  3.94302403
+
+Two pass non-phased fitting:
+k1  =   4.2781254, delta1  =   0.0000000
+k2  =   1.7774960, delta2  =   0.0000000
+k3  =   6.1303757, delta3  =   0.0000000
+RMSD =  3.94302403
+
+Multi pass non-phased fitting:
+k1  =   4.2781254, delta1  =   0.0000000
+k2  =   1.7774960, delta2  =   0.0000000
+k3  =   6.1303757, delta3  =   0.0000000
+RMSD =  3.94302403
+
+One pass phased fitting:
+k1  =   4.6876170, delta1  =  24.2943384
+k2  =   5.4032723, delta2  = -70.7307131
+k3  =   6.1562210, delta3  =   5.7968686
+RMSD =  0.69958878
+
+Two pass phased fitting:
+k1  =   4.6864550, delta1  =  24.2972162
+k2  =   5.4031541, delta2  = -70.7173666
+k3  =   6.1550094, delta3  =   5.7906187
+RMSD =  0.69958701
+
+Multi pass phased fitting:
+k1  =   4.6864550, delta1  =  24.2972162
+k2  =   5.4031541, delta2  = -70.7173666
+k3  =   6.1550094, delta3  =   5.7906187
+RMSD =  0.69958701
+
+___________________________________________
+
+Real data test: BothCarbonFixed.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.2396942, delta1  =   0.0000000
+k2  =   2.0920198, delta2  =   0.0000000
+k3  =   6.7996307, delta3  =   0.0000000
+RMSD =  3.99431030
+
+Two pass non-phased fitting:
+k1  =   5.2397853, delta1  =   0.0000000
+k2  =   2.0919196, delta2  =   0.0000000
+k3  =   6.7997462, delta3  =   0.0000000
+RMSD =  3.99431030
+
+Multi pass non-phased fitting:
+k1  =   5.2397853, delta1  =   0.0000000
+k2  =   2.0919196, delta2  =   0.0000000
+k3  =   6.7997462, delta3  =   0.0000000
+RMSD =  3.99431030
+
+One pass phased fitting:
+k1  =   5.4368034, delta1  =  15.7560932
+k2  =   5.5621270, delta2  = -67.8268107
+k3  =   6.9491604, delta3  =  12.1903664
+RMSD =  0.72650016
+
+Two pass phased fitting:
+k1  =   5.4361479, delta1  =  15.7539908
+k2  =   5.5616559, delta2  = -67.8185243
+k3  =   6.9483876, delta3  =  12.1823830
+RMSD =  0.72649916
+
+Multi pass phased fitting:
+k1  =   5.4361479, delta1  =  15.7539908
+k2  =   5.5616559, delta2  = -67.8185243
+k3  =   6.9483876, delta3  =  12.1823830
+RMSD =  0.72649916
+
+___________________________________________
+
+Real data test: BothCarbonFixed.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.0833659, delta1  =   0.0000000
+k2  =   1.8866794, delta2  =   0.0000000
+k3  =   6.7655773, delta3  =   0.0000000
+RMSD =  4.18563814
+
+Two pass non-phased fitting:
+k1  =   5.0834511, delta1  =   0.0000000
+k2  =   1.8865864, delta2  =   0.0000000
+k3  =   6.7656832, delta3  =   0.0000000
+RMSD =  4.18563814
+
+Multi pass non-phased fitting:
+k1  =   5.0834511, delta1  =   0.0000000
+k2  =   1.8865864, delta2  =   0.0000000
+k3  =   6.7656832, delta3  =   0.0000000
+RMSD =  4.18563814
+
+One pass phased fitting:
+k1  =   5.3138142, delta1  =  17.1841430
+k2  =   5.8397224, delta2  = -71.0808287
+k3  =   6.8246589, delta3  =   7.9647706
+RMSD =  0.76517209
+
+Two pass phased fitting:
+k1  =   5.3131050, delta1  =  17.1829126
+k2  =   5.8393259, delta2  = -71.0729035
+k3  =   6.8239110, delta3  =   7.9575509
+RMSD =  0.76517122
+
+Multi pass phased fitting:
+k1  =   5.3131050, delta1  =  17.1829126
+k2  =   5.8393259, delta2  = -71.0729035
+k3  =   6.8239110, delta3  =   7.9575509
+RMSD =  0.76517122
+
+___________________________________________
+
+Real data test: FunctionalFixed.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.0290007, delta1  =   0.0000000
+k2  =   1.6630238, delta2  =   0.0000000
+k3  =   6.7019323, delta3  =   0.0000000
+RMSD =  3.81427137
+
+Two pass non-phased fitting:
+k1  =   4.0290690, delta1  =   0.0000000
+k2  =   1.6629471, delta2  =   0.0000000
+k3  =   6.7020228, delta3  =   0.0000000
+RMSD =  3.81427137
+
+Multi pass non-phased fitting:
+k1  =   4.0290690, delta1  =   0.0000000
+k2  =   1.6629471, delta2  =   0.0000000
+k3  =   6.7020228, delta3  =   0.0000000
+RMSD =  3.81427137
+
+One pass phased fitting:
+k1  =   4.6962975, delta1  =  31.0274874
+k2  =   4.8198887, delta2  = -69.7572822
+k3  =   6.7299756, delta3  =   5.6493462
+RMSD =  1.08550003
+
+Two pass phased fitting:
+k1  =   4.6945717, delta1  =  31.0351020
+k2  =   4.8198429, delta2  = -69.7343853
+k3  =   6.7281038, delta3  =   5.6418147
+RMSD =  1.08549740
+
+Multi pass phased fitting:
+k1  =   4.6945717, delta1  =  31.0351020
+k2  =   4.8198429, delta2  = -69.7343853
+k3  =   6.7281038, delta3  =   5.6418147
+RMSD =  1.08549740
+
+___________________________________________
+
+Real data test: FunctionalFixed.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.2268941, delta1  =   0.0000000
+k2  =   1.4342079, delta2  =   0.0000000
+k3  =   6.7003584, delta3  =   0.0000000
+RMSD =  3.77058956
+
+Two pass non-phased fitting:
+k1  =   4.2269635, delta1  =   0.0000000
+k2  =   1.4341295, delta2  =   0.0000000
+k3  =   6.7004516, delta3  =   0.0000000
+RMSD =  3.77058956
+
+Multi pass non-phased fitting:
+k1  =   4.2269635, delta1  =   0.0000000
+k2  =   1.4341295, delta2  =   0.0000000
+k3  =   6.7004516, delta3  =   0.0000000
+RMSD =  3.77058956
+
+One pass phased fitting:
+k1  =   4.8311869, delta1  =  29.0891016
+k2  =   4.7190555, delta2  = -72.2420360
+k3  =   6.7355839, delta3  =   6.2715850
+RMSD =  1.04578714
+
+Two pass phased fitting:
+k1  =   4.8297804, delta1  =  29.0933305
+k2  =   4.7187715, delta2  = -72.2231744
+k3  =   6.7340938, delta3  =   6.2634220
+RMSD =  1.04578528
+
+Multi pass phased fitting:
+k1  =   4.8297804, delta1  =  29.0933305
+k2  =   4.7187715, delta2  = -72.2231744
+k3  =   6.7340938, delta3  =   6.2634220
+RMSD =  1.04578528
+
+___________________________________________
+
+Real data test: FunctionalFixed.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   3.6517974, delta1  =   0.0000000
+k2  =   1.5385882, delta2  =   0.0000000
+k3  =   6.3862941, delta3  =   0.0000000
+RMSD =  3.66361269
+
+Two pass non-phased fitting:
+k1  =   3.6518709, delta1  =   0.0000000
+k2  =   1.5385066, delta2  =   0.0000000
+k3  =   6.3863891, delta3  =   0.0000000
+RMSD =  3.66361269
+
+Multi pass non-phased fitting:
+k1  =   3.6518709, delta1  =   0.0000000
+k2  =   1.5385066, delta2  =   0.0000000
+k3  =   6.3863891, delta3  =   0.0000000
+RMSD =  3.66361269
+
+One pass phased fitting:
+k1  =   4.3353075, delta1  =  32.7194317
+k2  =   4.6743526, delta2  = -70.7255877
+k3  =   6.4007233, delta3  =   4.3934769
+RMSD =  0.90857402
+
+Two pass phased fitting:
+k1  =   4.3337220, delta1  =  32.7275552
+k2  =   4.6742580, delta2  = -70.7036612
+k3  =   6.3990077, delta3  =   4.3854988
+RMSD =  0.90857131
+
+Multi pass phased fitting:
+k1  =   4.3337220, delta1  =  32.7275552
+k2  =   4.6742580, delta2  = -70.7036612
+k3  =   6.3990077, delta3  =   4.3854988
+RMSD =  0.90857131
+
+___________________________________________
+
+Real data test: FunctionalFixed.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.4751276, delta1  =   0.0000000
+k2  =   1.9484052, delta2  =   0.0000000
+k3  =   7.2896091, delta3  =   0.0000000
+RMSD =  3.64708920
+
+Two pass non-phased fitting:
+k1  =   4.4752056, delta1  =   0.0000000
+k2  =   1.9483164, delta2  =   0.0000000
+k3  =   7.2897160, delta3  =   0.0000000
+RMSD =  3.64708920
+
+Multi pass non-phased fitting:
+k1  =   4.4752056, delta1  =   0.0000000
+k2  =   1.9483164, delta2  =   0.0000000
+k3  =   7.2897160, delta3  =   0.0000000
+RMSD =  3.64708920
+
+One pass phased fitting:
+k1  =   4.9477554, delta1  =  25.3889169
+k2  =   4.6368187, delta2  = -65.0813125
+k3  =   7.3965352, delta3  =   9.9904496
+RMSD =  1.17975009
+
+Two pass phased fitting:
+k1  =   4.9460685, delta1  =  25.3924254
+k2  =   4.6366955, delta2  = -65.0582296
+k3  =   7.3947035, delta3  =   9.9823414
+RMSD =  1.17974777
+
+Multi pass phased fitting:
+k1  =   4.9460685, delta1  =  25.3924254
+k2  =   4.6366955, delta2  = -65.0582296
+k3  =   7.3947035, delta3  =   9.9823414
+RMSD =  1.17974777
+
+___________________________________________
+
+Real data test: FunctionalFixed.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.2336250, delta1  =   0.0000000
+k2  =   1.6990174, delta2  =   0.0000000
+k3  =   7.1298664, delta3  =   0.0000000
+RMSD =  3.81087219
+
+Two pass non-phased fitting:
+k1  =   4.2337006, delta1  =   0.0000000
+k2  =   1.6989318, delta2  =   0.0000000
+k3  =   7.1299685, delta3  =   0.0000000
+RMSD =  3.81087219
+
+Multi pass non-phased fitting:
+k1  =   4.2337006, delta1  =   0.0000000
+k2  =   1.6989318, delta2  =   0.0000000
+k3  =   7.1299685, delta3  =   0.0000000
+RMSD =  3.81087219
+
+One pass phased fitting:
+k1  =   4.7900559, delta1  =  28.0406923
+k2  =   4.8755420, delta2  = -69.5323750
+k3  =   7.1943857, delta3  =   8.0201763
+RMSD =  1.02790095
+
+Two pass phased fitting:
+k1  =   4.7889422, delta1  =  28.0422774
+k2  =   4.8751421, delta2  = -69.5176412
+k3  =   7.1932087, delta3  =   8.0116886
+RMSD =  1.02789960
+
+Multi pass phased fitting:
+k1  =   4.7889422, delta1  =  28.0422774
+k2  =   4.8751421, delta2  = -69.5176412
+k3  =   7.1932087, delta3  =   8.0116886
+RMSD =  1.02789960
+
+___________________________________________
+
+Real data test: ThetaCarbonFixed.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.0158715, delta1  =   0.0000000
+k2  =   1.6819828, delta2  =   0.0000000
+k3  =   6.6886932, delta3  =   0.0000000
+RMSD =  3.79175370
+
+Two pass non-phased fitting:
+k1  =   4.0159400, delta1  =   0.0000000
+k2  =   1.6819056, delta2  =   0.0000000
+k3  =   6.6887851, delta3  =   0.0000000
+RMSD =  3.79175370
+
+Multi pass non-phased fitting:
+k1  =   4.0159400, delta1  =   0.0000000
+k2  =   1.6819056, delta2  =   0.0000000
+k3  =   6.6887851, delta3  =   0.0000000
+RMSD =  3.79175370
+
+One pass phased fitting:
+k1  =   4.6675372, delta1  =  30.7567836
+k2  =   4.8021067, delta2  = -69.4351439
+k3  =   6.7289947, delta3  =   6.6402279
+RMSD =  1.05964331
+
+Two pass phased fitting:
+k1  =   4.6658588, delta1  =  30.7637579
+k2  =   4.8020191, delta2  = -69.4127909
+k3  =   6.7271708, delta3  =   6.6325150
+RMSD =  1.05964075
+
+Multi pass phased fitting:
+k1  =   4.6658588, delta1  =  30.7637579
+k2  =   4.8020191, delta2  = -69.4127909
+k3  =   6.7271708, delta3  =   6.6325150
+RMSD =  1.05964075
+
+___________________________________________
+
+Real data test: ThetaCarbonFixed.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.3397892, delta1  =   0.0000000
+k2  =   1.5777386, delta2  =   0.0000000
+k3  =   6.5805113, delta3  =   0.0000000
+RMSD =  3.70844480
+
+Two pass non-phased fitting:
+k1  =   4.3235913, delta1  =   0.0000000
+k2  =   1.5940328, delta2  =   0.0000000
+k3  =   6.6149138, delta3  =   0.0000000
+RMSD =  3.70833276
+
+Multi pass non-phased fitting:
+k1  =   4.3235913, delta1  =   0.0000000
+k2  =   1.5940328, delta2  =   0.0000000
+k3  =   6.6149138, delta3  =   0.0000000
+RMSD =  3.70833276
+
+One pass phased fitting:
+k1  =   4.8224193, delta1  =  28.8292423
+k2  =   4.7065769, delta2  = -71.8362581
+k3  =   6.7994696, delta3  =   7.1488263
+RMSD =  1.02395074
+
+Two pass phased fitting:
+k1  =   4.8372053, delta1  =  29.3930945
+k2  =   4.6848682, delta2  = -71.0007503
+k3  =   6.8239819, delta3  =   6.7222143
+RMSD =  1.02125012
+
+Multi pass phased fitting:
+k1  =   4.8372053, delta1  =  29.3930945
+k2  =   4.6848682, delta2  = -71.0007503
+k3  =   6.8239819, delta3  =   6.7222143
+RMSD =  1.02125012
+
+___________________________________________
+
+Real data test: ThetaCarbonFixed.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   3.6706749, delta1  =   0.0000000
+k2  =   1.6078795, delta2  =   0.0000000
+k3  =   6.4008819, delta3  =   0.0000000
+RMSD =  3.66168066
+
+Two pass non-phased fitting:
+k1  =   3.6707500, delta1  =   0.0000000
+k2  =   1.6077958, delta2  =   0.0000000
+k3  =   6.4009800, delta3  =   0.0000000
+RMSD =  3.66168066
+
+Multi pass non-phased fitting:
+k1  =   3.6707500, delta1  =   0.0000000
+k2  =   1.6077958, delta2  =   0.0000000
+k3  =   6.4009800, delta3  =   0.0000000
+RMSD =  3.66168066
+
+One pass phased fitting:
+k1  =   4.3413910, delta1  =  32.3919167
+k2  =   4.6851421, delta2  = -69.8664983
+k3  =   6.4322905, delta3  =   6.0809425
+RMSD =  0.89468868
+
+Two pass phased fitting:
+k1  =   4.3399174, delta1  =  32.3985950
+k2  =   4.6849805, delta2  = -69.8461581
+k3  =   6.4306938, delta3  =   6.0727237
+RMSD =  0.89468626
+
+Multi pass phased fitting:
+k1  =   4.3399174, delta1  =  32.3985950
+k2  =   4.6849805, delta2  = -69.8461581
+k3  =   6.4306938, delta3  =   6.0727237
+RMSD =  0.89468626
+
+___________________________________________
+
+Real data test: ThetaCarbonFixed.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.3885656, delta1  =   0.0000000
+k2  =   1.9953218, delta2  =   0.0000000
+k3  =   7.3433442, delta3  =   0.0000000
+RMSD =  3.68615587
+
+Two pass non-phased fitting:
+k1  =   4.3886601, delta1  =   0.0000000
+k2  =   1.9952138, delta2  =   0.0000000
+k3  =   7.3434746, delta3  =   0.0000000
+RMSD =  3.68615587
+
+Multi pass non-phased fitting:
+k1  =   4.3886601, delta1  =   0.0000000
+k2  =   1.9952138, delta2  =   0.0000000
+k3  =   7.3434746, delta3  =   0.0000000
+RMSD =  3.68615587
+
+One pass phased fitting:
+k1  =   4.8578183, delta1  =  25.5603983
+k2  =   4.6634795, delta2  = -64.5841327
+k3  =   7.5016990, delta3  =  12.0218712
+RMSD =  1.14318331
+
+Two pass phased fitting:
+k1  =   4.8565966, delta1  =  25.5602016
+k2  =   4.6629644, delta2  = -64.5664218
+k3  =   7.5003267, delta3  =  12.0114063
+RMSD =  1.14318164
+
+Multi pass phased fitting:
+k1  =   4.8565966, delta1  =  25.5602016
+k2  =   4.6629644, delta2  = -64.5664218
+k3  =   7.5003267, delta3  =  12.0114063
+RMSD =  1.14318164
+
+___________________________________________
+
+Real data test: ThetaCarbonFixed.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.2329195, delta1  =   0.0000000
+k2  =   1.7052936, delta2  =   0.0000000
+k3  =   7.1755276, delta3  =   0.0000000
+RMSD =  3.81881048
+
+Two pass non-phased fitting:
+k1  =   4.2329989, delta1  =   0.0000000
+k2  =   1.7052035, delta2  =   0.0000000
+k3  =   7.1756357, delta3  =   0.0000000
+RMSD =  3.81881048
+
+Multi pass non-phased fitting:
+k1  =   4.2329989, delta1  =   0.0000000
+k2  =   1.7052035, delta2  =   0.0000000
+k3  =   7.1756357, delta3  =   0.0000000
+RMSD =  3.81881048
+
+One pass phased fitting:
+k1  =   4.7718549, delta1  =  27.6518185
+k2  =   4.8840544, delta2  = -69.4881615
+k3  =   7.2527912, delta3  =   8.6943488
+RMSD =  1.03587884
+
+Two pass phased fitting:
+k1  =   4.7708267, delta1  =  27.6524011
+k2  =   4.8835643, delta2  = -69.4744603
+k3  =   7.2517018, delta3  =   8.6852566
+RMSD =  1.03587758
+
+Multi pass phased fitting:
+k1  =   4.7708267, delta1  =  27.6524011
+k2  =   4.8835643, delta2  = -69.4744603
+k3  =   7.2517018, delta3  =   8.6852566
+RMSD =  1.03587758
+
+___________________________________________
+
+Real data test: 30PsiCarbonFixed.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   9.8095967, delta1  =   0.0000000
+k2  =   5.2396276, delta2  =   0.0000000
+k3  =   8.7508505, delta3  =   0.0000000
+RMSD =  4.52252431
+
+Two pass non-phased fitting:
+k1  =   9.8096118, delta1  =   0.0000000
+k2  =   5.2396156, delta2  =   0.0000000
+k3  =   8.7508573, delta3  =   0.0000000
+RMSD =  4.52252431
+
+Multi pass non-phased fitting:
+k1  =   9.8096118, delta1  =   0.0000000
+k2  =   5.2396156, delta2  =   0.0000000
+k3  =   8.7508573, delta3  =   0.0000000
+RMSD =  4.52252431
+
+One pass phased fitting:
+k1  =   9.9046305, delta1  =   8.0488900
+k2  =   7.7493190, delta2  = -47.4317728
+k3  =   8.7611124, delta3  =  -3.0971095
+RMSD =  1.75853506
+
+Two pass phased fitting:
+k1  =   9.9017049, delta1  =   8.0516947
+k2  =   7.7514295, delta2  = -47.4163270
+k3  =   8.7581358, delta3  =  -3.0967824
+RMSD =  1.75853129
+
+Multi pass phased fitting:
+k1  =   9.9017049, delta1  =   8.0516947
+k2  =   7.7514295, delta2  = -47.4163270
+k3  =   8.7581358, delta3  =  -3.0967824
+RMSD =  1.75853129
+
+___________________________________________
+
+Real data test: 30PsiCarbonFixed.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   9.9352687, delta1  =   0.0000000
+k2  =   4.9109036, delta2  =   0.0000000
+k3  =   8.5960994, delta3  =   0.0000000
+RMSD =  4.75673139
+
+Two pass non-phased fitting:
+k1  =   9.9352932, delta1  =   0.0000000
+k2  =   4.9108805, delta2  =   0.0000000
+k3  =   8.5961201, delta3  =   0.0000000
+RMSD =  4.75673139
+
+Multi pass non-phased fitting:
+k1  =   9.9352932, delta1  =   0.0000000
+k2  =   4.9108805, delta2  =   0.0000000
+k3  =   8.5961201, delta3  =   0.0000000
+RMSD =  4.75673139
+
+One pass phased fitting:
+k1  =   9.9798361, delta1  =   5.5838120
+k2  =   7.8618982, delta2  = -51.3177773
+k3  =   8.6151257, delta3  =  -4.0779119
+RMSD =  1.77037882
+
+Two pass phased fitting:
+k1  =   9.9771325, delta1  =   5.5853730
+k2  =   7.8636085, delta2  = -51.3023892
+k3  =   8.6124133, delta3  =  -4.0790490
+RMSD =  1.77037569
+
+Multi pass phased fitting:
+k1  =   9.9771325, delta1  =   5.5853730
+k2  =   7.8636085, delta2  = -51.3023892
+k3  =   8.6124133, delta3  =  -4.0790490
+RMSD =  1.77037569
+
+___________________________________________
+
+Real data test: 30PsiCarbonFixed.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   9.4032599, delta1  =   0.0000000
+k2  =   5.0640673, delta2  =   0.0000000
+k3  =   8.4351834, delta3  =   0.0000000
+RMSD =  4.47803526
+
+Two pass non-phased fitting:
+k1  =   9.4032860, delta1  =   0.0000000
+k2  =   5.0640429, delta2  =   0.0000000
+k3  =   8.4352047, delta3  =   0.0000000
+RMSD =  4.47803526
+
+Multi pass non-phased fitting:
+k1  =   9.4032860, delta1  =   0.0000000
+k2  =   5.0640429, delta2  =   0.0000000
+k3  =   8.4352047, delta3  =   0.0000000
+RMSD =  4.47803526
+
+One pass phased fitting:
+k1  =   9.4701635, delta1  =   6.9128804
+k2  =   7.6333261, delta2  = -48.4196423
+k3  =   8.4634656, delta3  =  -4.8434333
+RMSD =  1.68691216
+
+Two pass phased fitting:
+k1  =   9.4671070, delta1  =   6.9152333
+k2  =   7.6353986, delta2  = -48.4025248
+k3  =   8.4603897, delta3  =  -4.8448302
+RMSD =  1.68690794
+
+Multi pass phased fitting:
+k1  =   9.4671070, delta1  =   6.9152333
+k2  =   7.6353986, delta2  = -48.4025248
+k3  =   8.4603897, delta3  =  -4.8448302
+RMSD =  1.68690794
+
+___________________________________________
+
+Real data test: 30PsiCarbonFixed.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  10.2284277, delta1  =   0.0000000
+k2  =   5.2551856, delta2  =   0.0000000
+k3  =   9.1517904, delta3  =   0.0000000
+RMSD =  4.50516791
+
+Two pass non-phased fitting:
+k1  =  10.2284473, delta1  =   0.0000000
+k2  =   5.2551684, delta2  =   0.0000000
+k3  =   9.1518037, delta3  =   0.0000000
+RMSD =  4.50516791
+
+Multi pass non-phased fitting:
+k1  =  10.2284473, delta1  =   0.0000000
+k2  =   5.2551684, delta2  =   0.0000000
+k3  =   9.1518037, delta3  =   0.0000000
+RMSD =  4.50516791
+
+One pass phased fitting:
+k1  =  10.2603504, delta1  =   4.7246564
+k2  =   7.8153670, delta2  = -47.7169838
+k3  =   9.1518699, delta3  =  -1.4715216
+RMSD =  1.78738680
+
+Two pass phased fitting:
+k1  =  10.2576513, delta1  =   4.7261494
+k2  =   7.8172578, delta2  = -47.7027064
+k3  =   9.1491524, delta3  =  -1.4711308
+RMSD =  1.78738371
+
+Multi pass phased fitting:
+k1  =  10.2576513, delta1  =   4.7261494
+k2  =   7.8172578, delta2  = -47.7027064
+k3  =   9.1491524, delta3  =  -1.4711308
+RMSD =  1.78738371
+
+___________________________________________
+
+Real data test: 30PsiCarbonFixed.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  10.1902086, delta1  =   0.0000000
+k2  =   5.3556167, delta2  =   0.0000000
+k3  =   9.1204567, delta3  =   0.0000000
+RMSD =  4.67900233
+
+Two pass non-phased fitting:
+k1  =  10.1902391, delta1  =   0.0000000
+k2  =   5.3555872, delta2  =   0.0000000
+k3  =   9.1204846, delta3  =   0.0000000
+RMSD =  4.67900233
+
+Multi pass non-phased fitting:
+k1  =  10.1902391, delta1  =   0.0000000
+k2  =   5.3555872, delta2  =   0.0000000
+k3  =   9.1204846, delta3  =   0.0000000
+RMSD =  4.67900233
+
+One pass phased fitting:
+k1  =  10.2231591, delta1  =   4.8241556
+k2  =   8.0913065, delta2  = -48.5244004
+k3  =   9.1212568, delta3  =  -1.7099925
+RMSD =  1.76356829
+
+Two pass phased fitting:
+k1  =  10.2205657, delta1  =   4.8253358
+k2  =   8.0930173, delta2  = -48.5105224
+k3  =   9.1186574, delta3  =  -1.7106371
+RMSD =  1.76356541
+
+Multi pass phased fitting:
+k1  =  10.2205657, delta1  =   4.8253358
+k2  =   8.0930173, delta2  = -48.5105224
+k3  =   9.1186574, delta3  =  -1.7106371
+RMSD =  1.76356541
+
+___________________________________________
+
+Real data test: PsiAllFixed.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.2053185, delta1  =   0.0000000
+k2  =   1.9379290, delta2  =   0.0000000
+k3  =   6.1262908, delta3  =   0.0000000
+RMSD =  4.21923177
+
+Two pass non-phased fitting:
+k1  =   5.2053913, delta1  =   0.0000000
+k2  =   1.9378505, delta2  =   0.0000000
+k3  =   6.1263790, delta3  =   0.0000000
+RMSD =  4.21923177
+
+Multi pass non-phased fitting:
+k1  =   5.2053913, delta1  =   0.0000000
+k2  =   1.9378505, delta2  =   0.0000000
+k3  =   6.1263790, delta3  =   0.0000000
+RMSD =  4.21923177
+
+One pass phased fitting:
+k1  =   5.4242788, delta1  =  16.5368966
+k2  =   5.9612550, delta2  = -70.9741953
+k3  =   6.1341073, delta3  =   3.7619258
+RMSD =  0.80737800
+
+Two pass phased fitting:
+k1  =   5.4229457, delta1  =  16.5383014
+k2  =   5.9612056, delta2  = -70.9607209
+k3  =   6.1327623, delta3  =   3.7556774
+RMSD =  0.80737613
+
+Multi pass phased fitting:
+k1  =   5.4229457, delta1  =  16.5383014
+k2  =   5.9612056, delta2  = -70.9607209
+k3  =   6.1327623, delta3  =   3.7556774
+RMSD =  0.80737613
+
+___________________________________________
+
+Real data test: PsiAllFixed.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.1032223, delta1  =   0.0000000
+k2  =   1.4843525, delta2  =   0.0000000
+k3  =   6.0961272, delta3  =   0.0000000
+RMSD =  4.15799301
+
+Two pass non-phased fitting:
+k1  =   5.1032979, delta1  =   0.0000000
+k2  =   1.4842709, delta2  =   0.0000000
+k3  =   6.0962189, delta3  =   0.0000000
+RMSD =  4.15799300
+
+Multi pass non-phased fitting:
+k1  =   5.1032979, delta1  =   0.0000000
+k2  =   1.4842709, delta2  =   0.0000000
+k3  =   6.0962189, delta3  =   0.0000000
+RMSD =  4.15799300
+
+One pass phased fitting:
+k1  =   5.3511083, delta1  =  17.7281591
+k2  =   5.6942226, delta2  = -74.8248736
+k3  =   6.1405406, delta3  =   7.3630610
+RMSD =  0.74402736
+
+Two pass phased fitting:
+k1  =   5.3501197, delta1  =  17.7286646
+k2  =   5.6939770, delta2  = -74.8143056
+k3  =   6.1395119, delta3  =   7.3570762
+RMSD =  0.74402614
+
+Multi pass phased fitting:
+k1  =   5.3501197, delta1  =  17.7286646
+k2  =   5.6939770, delta2  = -74.8143056
+k3  =   6.1395119, delta3  =   7.3570762
+RMSD =  0.74402614
+
+___________________________________________
+
+Real data test: PsiAllFixed.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.5705935, delta1  =   0.0000000
+k2  =   1.7744053, delta2  =   0.0000000
+k3  =   5.9709529, delta3  =   0.0000000
+RMSD =  4.00725788
+
+Two pass non-phased fitting:
+k1  =   4.5706714, delta1  =   0.0000000
+k2  =   1.7743218, delta2  =   0.0000000
+k3  =   5.9710458, delta3  =   0.0000000
+RMSD =  4.00725788
+
+Multi pass non-phased fitting:
+k1  =   4.5706714, delta1  =   0.0000000
+k2  =   1.7743218, delta2  =   0.0000000
+k3  =   5.9710458, delta3  =   0.0000000
+RMSD =  4.00725788
+
+One pass phased fitting:
+k1  =   4.8519333, delta1  =  19.7896634
+k2  =   5.5962553, delta2  = -71.4579769
+k3  =   5.9807516, delta3  =   4.0587839
+RMSD =  0.73915839
+
+Two pass phased fitting:
+k1  =   4.8506566, delta1  =  19.7920229
+k2  =   5.5961938, delta2  = -71.4441319
+k3  =   5.9794512, delta3  =   4.0526315
+RMSD =  0.73915649
+
+Multi pass phased fitting:
+k1  =   4.8506566, delta1  =  19.7920229
+k2  =   5.5961938, delta2  = -71.4441319
+k3  =   5.9794512, delta3  =   4.0526315
+RMSD =  0.73915649
+
+___________________________________________
+
+Real data test: PsiAllFixed.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.5291723, delta1  =   0.0000000
+k2  =   2.0178765, delta2  =   0.0000000
+k3  =   6.5017415, delta3  =   0.0000000
+RMSD =  4.05959235
+
+Two pass non-phased fitting:
+k1  =   5.5292467, delta1  =   0.0000000
+k2  =   2.0177955, delta2  =   0.0000000
+k3  =   6.5018336, delta3  =   0.0000000
+RMSD =  4.05959235
+
+Multi pass non-phased fitting:
+k1  =   5.5292467, delta1  =   0.0000000
+k2  =   2.0177955, delta2  =   0.0000000
+k3  =   6.5018336, delta3  =   0.0000000
+RMSD =  4.05959235
+
+One pass phased fitting:
+k1  =   5.6587746, delta1  =  12.5926157
+k2  =   5.7311454, delta2  = -69.3151896
+k3  =   6.6136755, delta3  =  10.8600024
+RMSD =  0.75661544
+
+Two pass phased fitting:
+k1  =   5.6577273, delta1  =  12.5920678
+k2  =   5.7309738, delta2  = -69.3038237
+k3  =   6.6125437, delta3  =  10.8544458
+RMSD =  0.75661407
+
+Multi pass phased fitting:
+k1  =   5.6577273, delta1  =  12.5920678
+k2  =   5.7309738, delta2  = -69.3038237
+k3  =   6.6125437, delta3  =  10.8544458
+RMSD =  0.75661407
+
+___________________________________________
+
+Real data test: PsiAllFixed.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.3711698, delta1  =   0.0000000
+k2  =   1.8933609, delta2  =   0.0000000
+k3  =   6.5559476, delta3  =   0.0000000
+RMSD =  4.26923703
+
+Two pass non-phased fitting:
+k1  =   5.3712487, delta1  =   0.0000000
+k2  =   1.8932750, delta2  =   0.0000000
+k3  =   6.5560451, delta3  =   0.0000000
+RMSD =  4.26923702
+
+Multi pass non-phased fitting:
+k1  =   5.3712487, delta1  =   0.0000000
+k2  =   1.8932750, delta2  =   0.0000000
+k3  =   6.5560451, delta3  =   0.0000000
+RMSD =  4.26923702
+
+One pass phased fitting:
+k1  =   5.5337848, delta1  =  14.2050582
+k2  =   6.0315488, delta2  = -71.6391034
+k3  =   6.5998585, delta3  =   7.0918395
+RMSD =  0.76879520
+
+Two pass phased fitting:
+k1  =   5.5330128, delta1  =  14.2039925
+k2  =   6.0312254, delta2  = -71.6309203
+k3  =   6.5990538, delta3  =   7.0851203
+RMSD =  0.76879432
+
+Multi pass phased fitting:
+k1  =   5.5330128, delta1  =  14.2039925
+k2  =   6.0312254, delta2  = -71.6309203
+k3  =   6.5990538, delta3  =   7.0851203
+RMSD =  0.76879432
+
+___________________________________________
+
+Real data test: 30PsiOriginal.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.0102059, delta1  =   0.0000000
+k2  =   1.7658092, delta2  =   0.0000000
+k3  =   6.6056686, delta3  =   0.0000000
+RMSD =  3.83585167
+
+Two pass non-phased fitting:
+k1  =   4.0102698, delta1  =   0.0000000
+k2  =   1.7657370, delta2  =   0.0000000
+k3  =   6.6057547, delta3  =   0.0000000
+RMSD =  3.83585167
+
+Multi pass non-phased fitting:
+k1  =   4.0102698, delta1  =   0.0000000
+k2  =   1.7657370, delta2  =   0.0000000
+k3  =   6.6057547, delta3  =   0.0000000
+RMSD =  3.83585167
+
+One pass phased fitting:
+k1  =   4.7302466, delta1  =  32.1295531
+k2  =   4.8247271, delta2  = -68.4751528
+k3  =   6.6344886, delta3  =   5.7363374
+RMSD =  1.12315067
+
+Two pass phased fitting:
+k1  =   4.7283115, delta1  =  32.1391599
+k2  =   4.8248145, delta2  = -68.4493766
+k3  =   6.6323562, delta3  =   5.7288714
+RMSD =  1.12314746
+
+Multi pass phased fitting:
+k1  =   4.7283115, delta1  =  32.1391599
+k2  =   4.8248145, delta2  = -68.4493766
+k3  =   6.6323562, delta3  =   5.7288714
+RMSD =  1.12314746
+
+___________________________________________
+
+Real data test: 30PsiOriginal.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.2348352, delta1  =   0.0000000
+k2  =   1.5014422, delta2  =   0.0000000
+k3  =   6.6847707, delta3  =   0.0000000
+RMSD =  3.78740836
+
+Two pass non-phased fitting:
+k1  =   4.2348916, delta1  =   0.0000000
+k2  =   1.5013778, delta2  =   0.0000000
+k3  =   6.6848485, delta3  =   0.0000000
+RMSD =  3.78740836
+
+Multi pass non-phased fitting:
+k1  =   4.2348916, delta1  =   0.0000000
+k2  =   1.5013778, delta2  =   0.0000000
+k3  =   6.6848485, delta3  =   0.0000000
+RMSD =  3.78740836
+
+One pass phased fitting:
+k1  =   4.8674646, delta1  =  29.6573323
+k2  =   4.7264119, delta2  = -71.4138827
+k3  =   6.7214465, delta3  =   6.3838787
+RMSD =  1.06486507
+
+Two pass phased fitting:
+k1  =   4.8659668, delta1  =  29.6627810
+k2  =   4.7262546, delta2  = -71.3937782
+k3  =   6.7198359, delta3  =   6.3766930
+RMSD =  1.06486306
+
+Multi pass phased fitting:
+k1  =   4.8659668, delta1  =  29.6627810
+k2  =   4.7262546, delta2  = -71.3937782
+k3  =   6.7198359, delta3  =   6.3766930
+RMSD =  1.06486306
+
+___________________________________________
+
+Real data test: 30PsiOriginal.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   3.7403118, delta1  =   0.0000000
+k2  =   1.5428773, delta2  =   0.0000000
+k3  =   6.4135410, delta3  =   0.0000000
+RMSD =  3.68796438
+
+Two pass non-phased fitting:
+k1  =   3.7403737, delta1  =   0.0000000
+k2  =   1.5428084, delta2  =   0.0000000
+k3  =   6.4136212, delta3  =   0.0000000
+RMSD =  3.68796438
+
+Multi pass non-phased fitting:
+k1  =   3.7403737, delta1  =   0.0000000
+k2  =   1.5428084, delta2  =   0.0000000
+k3  =   6.4136212, delta3  =   0.0000000
+RMSD =  3.68796438
+
+One pass phased fitting:
+k1  =   4.4771380, delta1  =  33.4432452
+k2  =   4.6378000, delta2  = -70.5106149
+k3  =   6.4321309, delta3  =   4.8498747
+RMSD =  0.92459476
+
+Two pass phased fitting:
+k1  =   4.4755426, delta1  =  33.4521991
+k2  =   4.6378132, delta2  = -70.4882743
+k3  =   6.4303659, delta3  =   4.8432807
+RMSD =  0.92459206
+
+Multi pass phased fitting:
+k1  =   4.4755426, delta1  =  33.4521991
+k2  =   4.6378132, delta2  = -70.4882743
+k3  =   6.4303659, delta3  =   4.8432807
+RMSD =  0.92459206
+
+___________________________________________
+
+Real data test: 30PsiOriginal.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.5042622, delta1  =   0.0000000
+k2  =   1.9847531, delta2  =   0.0000000
+k3  =   7.2642514, delta3  =   0.0000000
+RMSD =  3.67755954
+
+Two pass non-phased fitting:
+k1  =   4.5043386, delta1  =   0.0000000
+k2  =   1.9846665, delta2  =   0.0000000
+k3  =   7.2643549, delta3  =   0.0000000
+RMSD =  3.67755954
+
+Multi pass non-phased fitting:
+k1  =   4.5043386, delta1  =   0.0000000
+k2  =   1.9846665, delta2  =   0.0000000
+k3  =   7.2643549, delta3  =   0.0000000
+RMSD =  3.67755954
+
+One pass phased fitting:
+k1  =   5.0236571, delta1  =  26.4184881
+k2  =   4.6763972, delta2  = -64.8152663
+k3  =   7.3542139, delta3  =   9.2286633
+RMSD =  1.17554533
+
+Two pass phased fitting:
+k1  =   5.0220483, delta1  =  26.4222232
+k2  =   4.6763032, delta2  = -64.7933931
+k3  =   7.3524739, delta3  =   9.2208615
+RMSD =  1.17554321
+
+Multi pass phased fitting:
+k1  =   5.0220483, delta1  =  26.4222232
+k2  =   4.6763032, delta2  = -64.7933931
+k3  =   7.3524739, delta3  =   9.2208615
+RMSD =  1.17554321
+
+___________________________________________
+
+Real data test: 30PsiOriginal.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.2943708, delta1  =   0.0000000
+k2  =   1.8476775, delta2  =   0.0000000
+k3  =   7.1915875, delta3  =   0.0000000
+RMSD =  3.76889689
+
+Two pass non-phased fitting:
+k1  =   4.2885726, delta1  =   0.0000000
+k2  =   1.8672251, delta2  =   0.0000000
+k3  =   7.2077004, delta3  =   0.0000000
+RMSD =  3.76886194
+
+Multi pass non-phased fitting:
+k1  =   4.2885726, delta1  =   0.0000000
+k2  =   1.8672251, delta2  =   0.0000000
+k3  =   7.2077004, delta3  =   0.0000000
+RMSD =  3.76886194
+
+One pass phased fitting:
+k1  =   4.8715907, delta1  =  27.9527870
+k2  =   4.8255458, delta2  = -68.0353609
+k3  =   7.2136600, delta3  =   7.8207029
+RMSD =  0.98544585
+
+Two pass phased fitting:
+k1  =   4.8842333, delta1  =  28.6435829
+k2  =   4.8172718, delta2  = -67.3103928
+k3  =   7.2489178, delta3  =   7.4342596
+RMSD =  0.98301560
+
+Multi pass phased fitting:
+k1  =   4.8842333, delta1  =  28.6435829
+k2  =   4.8172718, delta2  = -67.3103928
+k3  =   7.2489178, delta3  =   7.4342596
+RMSD =  0.98301560
+
+___________________________________________
+
+Real data test: PsiCarbonFixed.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.8500660, delta1  =   0.0000000
+k2  =   1.8880430, delta2  =   0.0000000
+k3  =   6.2704240, delta3  =   0.0000000
+RMSD =  4.13414915
+
+Two pass non-phased fitting:
+k1  =   4.8501430, delta1  =   0.0000000
+k2  =   1.8879599, delta2  =   0.0000000
+k3  =   6.2705174, delta3  =   0.0000000
+RMSD =  4.13414914
+
+Multi pass non-phased fitting:
+k1  =   4.8501430, delta1  =   0.0000000
+k2  =   1.8879599, delta2  =   0.0000000
+k3  =   6.2705174, delta3  =   0.0000000
+RMSD =  4.13414914
+
+One pass phased fitting:
+k1  =   5.1697432, delta1  =  20.4305115
+k2  =   5.7471495, delta2  = -70.7628967
+k3  =   6.2852410, delta3  =   4.6096650
+RMSD =  0.78500588
+
+Two pass phased fitting:
+k1  =   5.1684594, delta1  =  20.4326750
+k2  =   5.7470654, delta2  = -70.7492551
+k3  =   6.2839286, delta3  =   4.6033543
+RMSD =  0.78500403
+
+Multi pass phased fitting:
+k1  =   5.1684594, delta1  =  20.4326750
+k2  =   5.7470654, delta2  = -70.7492551
+k3  =   6.2839286, delta3  =   4.6033543
+RMSD =  0.78500403
+
+___________________________________________
+
+Real data test: PsiCarbonFixed.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.7920210, delta1  =   0.0000000
+k2  =   1.4580157, delta2  =   0.0000000
+k3  =   6.2534523, delta3  =   0.0000000
+RMSD =  4.08760695
+
+Two pass non-phased fitting:
+k1  =   4.7920975, delta1  =   0.0000000
+k2  =   1.4579332, delta2  =   0.0000000
+k3  =   6.2535449, delta3  =   0.0000000
+RMSD =  4.08760695
+
+Multi pass non-phased fitting:
+k1  =   4.7920975, delta1  =   0.0000000
+k2  =   1.4579332, delta2  =   0.0000000
+k3  =   6.2535449, delta3  =   0.0000000
+RMSD =  4.08760695
+
+One pass phased fitting:
+k1  =   5.1306196, delta1  =  21.1275178
+k2  =   5.5099101, delta2  = -74.5881135
+k3  =   6.3055298, delta3  =   7.8007035
+RMSD =  0.72654210
+
+Two pass phased fitting:
+k1  =   5.1296575, delta1  =  21.1286017
+k2  =   5.5096622, delta2  = -74.5774180
+k3  =   6.3045196, delta3  =   7.7949130
+RMSD =  0.72654089
+
+Multi pass phased fitting:
+k1  =   5.1296575, delta1  =  21.1286017
+k2  =   5.5096622, delta2  = -74.5774180
+k3  =   6.3045196, delta3  =   7.7949130
+RMSD =  0.72654089
+
+___________________________________________
+
+Real data test: PsiCarbonFixed.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   4.2269989, delta1  =   0.0000000
+k2  =   1.7086381, delta2  =   0.0000000
+k3  =   6.1002790, delta3  =   0.0000000
+RMSD =  3.93600024
+
+Two pass non-phased fitting:
+k1  =   4.2270782, delta1  =   0.0000000
+k2  =   1.7085532, delta2  =   0.0000000
+k3  =   6.1003733, delta3  =   0.0000000
+RMSD =  3.93600024
+
+Multi pass non-phased fitting:
+k1  =   4.2270782, delta1  =   0.0000000
+k2  =   1.7085532, delta2  =   0.0000000
+k3  =   6.1003733, delta3  =   0.0000000
+RMSD =  3.93600024
+
+One pass phased fitting:
+k1  =   4.6411274, delta1  =  24.5435668
+k2  =   5.3807284, delta2  = -71.4267357
+k3  =   6.1137535, delta3  =   4.4808577
+RMSD =  0.71754522
+
+Two pass phased fitting:
+k1  =   4.6398662, delta1  =  24.5473559
+k2  =   5.3806686, delta2  = -71.4122742
+k3  =   6.1124425, delta3  =   4.4749199
+RMSD =  0.71754325
+
+Multi pass phased fitting:
+k1  =   4.6398662, delta1  =  24.5473559
+k2  =   5.3806686, delta2  = -71.4122742
+k3  =   6.1124425, delta3  =   4.4749199
+RMSD =  0.71754325
+
+___________________________________________
+
+Real data test: PsiCarbonFixed.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.1909627, delta1  =   0.0000000
+k2  =   1.9740042, delta2  =   0.0000000
+k3  =   6.6564101, delta3  =   0.0000000
+RMSD =  3.97214203
+
+Two pass non-phased fitting:
+k1  =   5.1910403, delta1  =   0.0000000
+k2  =   1.9739196, delta2  =   0.0000000
+k3  =   6.6565064, delta3  =   0.0000000
+RMSD =  3.97214203
+
+Multi pass non-phased fitting:
+k1  =   5.1910403, delta1  =   0.0000000
+k2  =   1.9739196, delta2  =   0.0000000
+k3  =   6.6565064, delta3  =   0.0000000
+RMSD =  3.97214203
+
+One pass phased fitting:
+k1  =   5.3897154, delta1  =  15.8662323
+k2  =   5.5244666, delta2  = -68.9912080
+k3  =   6.7789453, delta3  =  11.2002645
+RMSD =  0.72840734
+
+Two pass phased fitting:
+k1  =   5.3887055, delta1  =  15.8660438
+k2  =   5.5242632, delta2  = -68.9797447
+k3  =   6.7778465, delta3  =  11.1945285
+RMSD =  0.72840598
+
+Multi pass phased fitting:
+k1  =   5.3887055, delta1  =  15.8660438
+k2  =   5.5242632, delta2  = -68.9797447
+k3  =   6.7778465, delta3  =  11.1945285
+RMSD =  0.72840598
+
+___________________________________________
+
+Real data test: PsiCarbonFixed.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =   5.0427887, delta1  =   0.0000000
+k2  =   1.8600201, delta2  =   0.0000000
+k3  =   6.7109811, delta3  =   0.0000000
+RMSD =  4.18479464
+
+Two pass non-phased fitting:
+k1  =   5.0428690, delta1  =   0.0000000
+k2  =   1.8599328, delta2  =   0.0000000
+k3  =   6.7110801, delta3  =   0.0000000
+RMSD =  4.18479464
+
+Multi pass non-phased fitting:
+k1  =   5.0428690, delta1  =   0.0000000
+k2  =   1.8599328, delta2  =   0.0000000
+k3  =   6.7110801, delta3  =   0.0000000
+RMSD =  4.18479464
+
+One pass phased fitting:
+k1  =   5.2826656, delta1  =  17.5740274
+k2  =   5.8350852, delta2  = -71.3425894
+k3  =   6.7644457, delta3  =   7.6455636
+RMSD =  0.74645205
+
+Two pass phased fitting:
+k1  =   5.2819293, delta1  =  17.5732582
+k2  =   5.8347512, delta2  = -71.3345066
+k3  =   6.7636756, delta3  =   7.6390079
+RMSD =  0.74645120
+
+Multi pass phased fitting:
+k1  =   5.2819293, delta1  =  17.5732582
+k2  =   5.8347512, delta2  = -71.3345066
+k3  =   6.7636756, delta3  =   7.6390079
+RMSD =  0.74645120
+
+___________________________________________
+
+Real data test: 60PsiAllFixed.AMINO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  12.8114544, delta1  =   0.0000000
+k2  =   7.2431703, delta2  =   0.0000000
+k3  =   9.1131572, delta3  =   0.0000000
+RMSD =  4.13774130
+
+Two pass non-phased fitting:
+k1  =  12.8114707, delta1  =   0.0000000
+k2  =   7.2431618, delta2  =   0.0000000
+k3  =   9.1131527, delta3  =   0.0000000
+RMSD =  4.13774130
+
+Multi pass non-phased fitting:
+k1  =  12.8114707, delta1  =   0.0000000
+k2  =   7.2431618, delta2  =   0.0000000
+k3  =   9.1131527, delta3  =   0.0000000
+RMSD =  4.13774130
+
+One pass phased fitting:
+k1  =  13.2874057, delta1  =  15.4899497
+k2  =   8.1553337, delta2  = -27.2558404
+k3  =   9.3247116, delta3  =  12.4201990
+RMSD =  1.35394392
+
+Two pass phased fitting:
+k1  =  13.2859739, delta1  =  15.4928351
+k2  =   8.1569656, delta2  = -27.2540811
+k3  =   9.3233410, delta3  =  12.4270055
+RMSD =  1.35394239
+
+Multi pass phased fitting:
+k1  =  13.2859739, delta1  =  15.4928351
+k2  =   8.1569656, delta2  = -27.2540811
+k3  =   9.3233410, delta3  =  12.4270055
+RMSD =  1.35394239
+
+___________________________________________
+
+Real data test: 60PsiAllFixed.CHLORO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  13.1156613, delta1  =   0.0000000
+k2  =   7.2105207, delta2  =   0.0000000
+k3  =   9.1948629, delta3  =   0.0000000
+RMSD =  4.04674103
+
+Two pass non-phased fitting:
+k1  =  13.1156934, delta1  =   0.0000000
+k2  =   7.2104949, delta2  =   0.0000000
+k3  =   9.1948784, delta3  =   0.0000000
+RMSD =  4.04674103
+
+Multi pass non-phased fitting:
+k1  =  13.1156934, delta1  =   0.0000000
+k2  =   7.2104949, delta2  =   0.0000000
+k3  =   9.1948784, delta3  =   0.0000000
+RMSD =  4.04674103
+
+One pass phased fitting:
+k1  =  13.4486209, delta1  =  12.8963998
+k2  =   8.3057071, delta2  = -29.6693777
+k3  =   9.3327992, delta3  =  10.0852943
+RMSD =  1.44232795
+
+Two pass phased fitting:
+k1  =  13.4471982, delta1  =  12.8986824
+k2  =   8.3072233, delta2  = -29.6666691
+k3  =   9.3314095, delta3  =  10.0906396
+RMSD =  1.44232666
+
+Multi pass phased fitting:
+k1  =  13.4471982, delta1  =  12.8986824
+k2  =   8.3072233, delta2  = -29.6666691
+k3  =   9.3314095, delta3  =  10.0906396
+RMSD =  1.44232666
+
+___________________________________________
+
+Real data test: 60PsiAllFixed.HYDRO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  12.4859143, delta1  =   0.0000000
+k2  =   7.1972051, delta2  =   0.0000000
+k3  =   9.0158195, delta3  =   0.0000000
+RMSD =  4.08446480
+
+Two pass non-phased fitting:
+k1  =  12.4859107, delta1  =   0.0000000
+k2  =   7.1972189, delta2  =   0.0000000
+k3  =   9.0157887, delta3  =   0.0000000
+RMSD =  4.08446480
+
+Multi pass non-phased fitting:
+k1  =  12.4859107, delta1  =   0.0000000
+k2  =   7.1972189, delta2  =   0.0000000
+k3  =   9.0157887, delta3  =   0.0000000
+RMSD =  4.08446480
+
+One pass phased fitting:
+k1  =  12.9006913, delta1  =  14.6784575
+k2  =   8.2546637, delta2  = -29.2314815
+k3  =   9.1498138, delta3  =  10.0447436
+RMSD =  1.39100437
+
+Two pass phased fitting:
+k1  =  12.8992757, delta1  =  14.6817346
+k2  =   8.2563767, delta2  = -29.2304744
+k3  =   9.1484426, delta3  =  10.0530358
+RMSD =  1.39100273
+
+Multi pass phased fitting:
+k1  =  12.8992757, delta1  =  14.6817346
+k2  =   8.2563767, delta2  = -29.2304744
+k3  =   9.1484426, delta3  =  10.0530358
+RMSD =  1.39100273
+
+___________________________________________
+
+Real data test: 60PsiAllFixed.METH1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  13.3563709, delta1  =   0.0000000
+k2  =   7.6195600, delta2  =   0.0000000
+k3  =   9.6091826, delta3  =   0.0000000
+RMSD =  4.01096404
+
+Two pass non-phased fitting:
+k1  =  13.3563993, delta1  =   0.0000000
+k2  =   7.6195384, delta2  =   0.0000000
+k3  =   9.6091931, delta3  =   0.0000000
+RMSD =  4.01096404
+
+Multi pass non-phased fitting:
+k1  =  13.3563993, delta1  =   0.0000000
+k2  =   7.6195384, delta2  =   0.0000000
+k3  =   9.6091931, delta3  =   0.0000000
+RMSD =  4.01096404
+
+One pass phased fitting:
+k1  =  13.6833262, delta1  =  12.6818754
+k2  =   8.4654382, delta2  = -25.7248312
+k3  =   9.8908293, delta3  =  13.8725851
+RMSD =  1.41711479
+
+Two pass phased fitting:
+k1  =  13.6818373, delta1  =  12.6842272
+k2  =   8.4670549, delta2  = -25.7228800
+k3  =   9.8894434, delta3  =  13.8785234
+RMSD =  1.41711335
+
+Multi pass phased fitting:
+k1  =  13.6818373, delta1  =  12.6842272
+k2  =   8.4670549, delta2  = -25.7228800
+k3  =   9.8894434, delta3  =  13.8785234
+RMSD =  1.41711335
+
+___________________________________________
+
+Real data test: 60PsiAllFixed.THIO1.qm
+___________________________________________
+One pass non-phased fitting:
+k1  =  13.3228165, delta1  =   0.0000000
+k2  =   7.7225142, delta2  =   0.0000000
+k3  =   9.5536920, delta3  =   0.0000000
+RMSD =  4.07722590
+
+Two pass non-phased fitting:
+k1  =  13.3228589, delta1  =   0.0000000
+k2  =   7.7224770, delta2  =   0.0000000
+k3  =   9.5537203, delta3  =   0.0000000
+RMSD =  4.07722589
+
+Multi pass non-phased fitting:
+k1  =  13.3228589, delta1  =   0.0000000
+k2  =   7.7224770, delta2  =   0.0000000
+k3  =   9.5537203, delta3  =   0.0000000
+RMSD =  4.07722589
+
+One pass phased fitting:
+k1  =  13.6645181, delta1  =  12.9720621
+k2  =   8.6955943, delta2  = -27.2643726
+k3  =   9.7509042, delta3  =  11.7471546
+RMSD =  1.41810438
+
+Two pass phased fitting:
+k1  =  13.6634160, delta1  =  12.9738746
+k2  =   8.6967984, delta2  = -27.2628599
+k3  =   9.7498520, delta3  =  11.7515687
+RMSD =  1.41810358
+
+Multi pass phased fitting:
+k1  =  13.6634160, delta1  =  12.9738746
+k2  =   8.6967984, delta2  = -27.2628599
+k3  =   9.7498520, delta3  =  11.7515687
+RMSD =  1.41810358
+
+___________________________________________
+
+Final mean rmsds after 113 iterations:
+3.9712326851039426
+3.9711959164771313
+3.9711959164771313
+1.0555748165966192
+1.055305168215635
+1.055305168215635

@@ -1,0 +1,71 @@
+TITLE
+steepest descent energy minimization in vacuum
+END
+ENERGYMIN
+#     NTEM    NCYC    DELE    DX0     DXM   NMIN   FLIM                                   
+         1       0     0.01   0.01    0.05   100    0.0
+END
+SYSTEM
+#      NPM      NSM 
+         1      0
+END
+INITIALISE                                                                                                     
+#    NTIVEL   NTISHK   NTINHT    NTINHB    NTISHI  NTIRTC     NTICOM   NTISTI      IG     TEMPI   
+         0         0        0         0         1       0          0        0  251983       298.15
+END
+STEP
+#   NSTLIM         T        DT                                             
+      50000       0.0     0.002
+END
+BOUNDCOND
+#      NTB    NDFMIN                                                       
+         0         1
+END
+PRINTOUT
+#NTPR: print out energies, etc. every NTPR steps
+#NTPP: =1 perform dihedral angle transition monitoring
+#     NTPR          NTPP
+        10            0                                               
+END
+CONSTRAINT
+#      NTC       NTCP   NTCP0(1)     NTCS      NTCS0(1)
+         3          1    0.00010        1      0.00010 
+END
+FORCE
+#      NTF array
+# bonds    angles    imp.     dihe     charge nonbonded
+# H        H         H        H
+  0  0     1  1      1  1     1  1     1  1
+# NEGR    NRE(1)    NRE(2)    ...      NRE(NEGR)
+     1     {numberOfAtoms}
+END
+PAIRLIST
+#       algorithm       NSNB    RCUTP   RCUTL   SIZE    TYPE
+        0               5         0.8     1.4   0.4     0
+END
+NONBONDED
+# NLRELE    APPAK      RCRF     EPSRF  NSLFEXCL 
+       1      0.0       1.4        1     1
+# NSHAPE   ASHAPE    NA2CLC   TOLA2   EPSLS
+      -1       1.4        2   1e-10       0
+# NKX    NKY   NKZ    KCUT
+   10     10    10     100
+# NGX   NGY   NGZ  NASORD  NFDORD   NALIAS  NSPORD
+   32    32    32       3       2        3       4
+# NQEVAL   FACCUR   NRDGRD   NWRGRD   NLRLJ    SLVDNS
+  100000      1.6        0        0       0      33.3
+END
+DIHEDRALRES
+# NTDLR   0...3 controls dihedral-angle restraining and constraining 
+#         0:    off [default]
+#         1:    dihedral restraining using CDLR
+#         2:    dihedral restraining using CDLR * WDLR
+#         3:    dihedral constraining
+#    
+# CDLR    >=0.0 force constant for dihedral restraining
+# PHILIN  deviation after which the potential energy function is linearized
+#
+# NTDLR  CDLR      PHILIN
+  3      100.0     1.0
+END
+

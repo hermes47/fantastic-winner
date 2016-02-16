@@ -1,0 +1,14 @@
+Absolute RMSDs from QM calculations
+       631Gd : 0.41
+      631+Gd : 0.44
+   6311+G2dp : 0.38
+ 6311++G2d2p : 0.38
+6311++G3df3p : 0.39
+
+RMSDs relative to 6-31G(d) basis set fit
+       631Gd : 0.00
+      631+Gd : 0.28
+   6311+G2dp : 0.43
+ 6311++G2d2p : 0.46
+6311++G3df3p : 0.42
+___________________________________
