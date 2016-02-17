@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1455657099 "torsional_outcomes.tex" "torsional_outcomes.pdf" "torsional_outcomes" 1455657100
+["pdflatex"] 1455661271 "torsional_outcomes.tex" "torsional_outcomes.pdf" "torsional_outcomes" 1455661276
   "./BasisSets/Figures/HYDRO0/Combined.png" 1454462400 71012 2b4f8c04eaf56502406536ba60cd585a ""
   "./BasisSets/Figures/METH0/Combined.png" 1454462401 63085 720d2eff4f89c44e27e659432e477b49 ""
   "./Images/molecules.png" 1443752881 1782855 93c958c0e519bd35b1f313b9be19b1d2 ""
@@ -187,8 +187,8 @@
   "BasisSets/Figures/HYDRO0/Combined.png" 1454462400 71012 2b4f8c04eaf56502406536ba60cd585a ""
   "BasisSets/Figures/METH0/Combined.png" 1454462401 63085 720d2eff4f89c44e27e659432e477b49 ""
   "Images/molecules.png" 1443752881 1782855 93c958c0e519bd35b1f313b9be19b1d2 ""
-  "torsional_outcomes.aux" 1455657100 3807 50dbf061bea7e83ae22db0fa82a963e1 ""
-  "torsional_outcomes.tex" 1455657099 20135 8ce56620558c38be601154c51f453efe ""
+  "torsional_outcomes.aux" 1455661275 3807 50dbf061bea7e83ae22db0fa82a963e1 ""
+  "torsional_outcomes.tex" 1455659039 20578 cb8dba6069e2ade8c475f0c5517bda3f ""
   (generated)
   "torsional_outcomes.aux"
   "torsional_outcomes.pdf"
