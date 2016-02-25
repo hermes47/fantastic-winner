@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Procedure Overview}{}% 1
+\BOOKMARK [1][-]{section.2}{Level of QM Theory}{}% 2
+\BOOKMARK [1][-]{section.3}{Fitting}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Using simultaneous linear equations to fit to a Fourier series}{section.3}% 4
+\BOOKMARK [3][-]{section*.1}{Expanding to variable }{subsection.3.1}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Fitting methods}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.3}{Pruning outliers}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.4}{Comparing QM and MM data}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Results}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Fitting methods}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Comparing QM and MM data}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.3}{Functional group shifting}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.4}{Sampling density}{section.4}% 13

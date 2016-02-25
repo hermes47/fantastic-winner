@@ -1,0 +1,9 @@
+05 deg: 0.0851
+10 deg: 0.0879
+15 deg: 0.0890
+20 deg: 0.1005
+30 deg: 0.2325
+expected peaks: 0.2844
+expected peaks with midpoints: 0.1091
+expected peaks with midpoints half: 0.1121
+expected troughs with midpoints: 0.1175

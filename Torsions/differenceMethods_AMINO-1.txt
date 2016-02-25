@@ -4,28 +4,15 @@ k2  =   0.2460635, delta2  = 180.0000000
 k3  =   1.9005221, delta3  = 180.0000000
 RMSD fit =   2.1408554 
 
-Non-phased fitting to raw QM - raw UA:
-k2  =   0.5232994, delta2  = 180.0000000
-k3  =   5.4790570, delta3  =   0.0000000
-k6  =   0.4862548, delta6  =   0.0000000
-RMSD fit =   1.1996089 
-
 Phased fitting to raw QM - raw AA:
 k1  =   2.6576458, delta1  =  99.6836616
 k3  =   2.1927485, delta3  = 150.1298633
 k4  =   0.4836597, delta4  =  71.7871845
 RMSD fit =   0.6429262 
 
-Phased fitting to raw QM - raw UA:
-k1  =   0.5468312, delta1  = 142.6930334
-k2  =   1.1966063, delta2  = 115.9900601
-k3  =   5.5814633, delta3  =  10.9365295
-RMSD fit =   0.4936776 
-
-===========================================
 Non-phased fitting to raw QM - non-phased AA:
 
-QM Fit:
+MD Fit:
 k1  =   1.8304122, delta1  =   0.0000000
 k2  =   1.4619835, delta2  =   0.0000000
 k3  =   9.5322186, delta3  =   0.0000000
@@ -41,63 +28,9 @@ k3  =   1.9305354, delta3  = 180.0000000
 k6  =   0.2989984, delta6  =   0.0000000
 RMSD fit =   3.8250750 
 
-Non-phased fitting to raw QM - non-phased UA:
-
-QM Fit:
-k1  =   1.8405786, delta1  =   0.0000000
-k2  =   1.7736242, delta2  =   0.0000000
-k3  =   2.0783572, delta3  =   0.0000000
-k4  =   0.0151484, delta4  = 180.0000000
-k5  =   0.0484652, delta5  = 180.0000000
-k6  =   0.0993713, delta6  = 180.0000000
-RMSD fit =   3.9164327 
-
-
-DIFF Fit:
-k2  =   0.5460341, delta2  = 180.0000000
-k3  =   5.5233260, delta3  =   0.0000000
-k6  =   0.5177802, delta6  =   0.0000000
-RMSD fit =   3.8319910 
-
-Non-phased fitting to raw QM - phased AA:
-
-QM Fit:
-k1  =   2.8306166, delta1  =  49.8038600
-k2  =   2.4215874, delta2  = -52.6071901
-k3  =   9.5209880, delta3  =   1.3841984
-k4  =   0.0995536, delta4  = 172.9573525
-k5  =   0.1246887, delta5  = 174.0715002
-k6  =   0.1618076, delta6  = -41.8597589
-RMSD fit =   0.6342152 
-
-
-DIFF Fit:
-k1  =   0.4443940, delta1  = 180.0000000
-k3  =   1.9200927, delta3  = 180.0000000
-k6  =   0.3014518, delta6  =   0.0000000
-RMSD fit =   2.0306405 
-
-Non-phased fitting to raw QM - phased UA:
-
-QM Fit:
-k1  =   4.7909692, delta1  =  67.8051008
-k2  =   3.6912490, delta2  = -61.1420497
-k3  =   2.1240835, delta3  =   6.6489987
-k4  =   0.1418925, delta4  = 106.5867039
-k5  =   0.0848376, delta5  = 132.7598738
-k6  =   0.0696384, delta6  = -172.6316870
-RMSD fit =   0.1040501 
-
-
-DIFF Fit:
-k2  =   0.5483987, delta2  = 180.0000000
-k3  =   5.4863348, delta3  =   0.0000000
-k6  =   0.4930048, delta6  =   0.0000000
-RMSD fit =   1.1601247 
-
 Phased fitting to raw QM - non-phased AA:
 
-QM Fit:
+MD Fit:
 k1  =   1.8304122, delta1  =   0.0000000
 k2  =   1.4619835, delta2  =   0.0000000
 k3  =   9.5322186, delta3  =   0.0000000
@@ -113,100 +46,9 @@ k2  =   2.1916219, delta2  = -96.0223289
 k3  =   2.3157569, delta3  = 146.6758138
 RMSD fit =   0.4709207 
 
-Phased fitting to raw QM - non-phased UA:
+Non-phased fitting to raw QM - phased AA:
 
-QM Fit:
-k1  =   1.8405786, delta1  =   0.0000000
-k2  =   1.7736242, delta2  =   0.0000000
-k3  =   2.0783572, delta3  =   0.0000000
-k4  =   0.0151484, delta4  = 180.0000000
-k5  =   0.0484652, delta5  = 180.0000000
-k6  =   0.0993713, delta6  = 180.0000000
-RMSD fit =   3.9164327 
-
-
-DIFF Fit:
-k1  =   4.7642294, delta1  =  95.5281890
-k2  =   2.2458053, delta2  = -103.9544511
-k3  =   5.6636109, delta3  =  12.9811571
-RMSD fit =   0.5380615 
-
-Phased fitting to raw QM - phased AA:
-
-QM Fit:
-k1  =   2.8306166, delta1  =  49.8038600
-k2  =   2.4215874, delta2  = -52.6071901
-k3  =   9.5209880, delta3  =   1.3841984
-k4  =   0.0995536, delta4  = 172.9573525
-k5  =   0.1246887, delta5  = 174.0715002
-k6  =   0.1618076, delta6  = -41.8597589
-RMSD fit =   0.6342152 
-
-
-DIFF Fit:
-k1  =   2.6180786, delta1  =  99.7924797
-k3  =   2.1854987, delta3  = 151.5179871
-k4  =   0.4442690, delta4  =  69.5810689
-RMSD fit =   0.4460859 
-
-Phased fitting to raw QM - phased UA:
-
-QM Fit:
-k1  =   4.7909692, delta1  =  67.8051008
-k2  =   3.6912490, delta2  = -61.1420497
-k3  =   2.1240835, delta3  =   6.6489987
-k4  =   0.1418925, delta4  = 106.5867039
-k5  =   0.0848376, delta5  = 132.7598738
-k6  =   0.0696384, delta6  = -172.6316870
-RMSD fit =   0.1040501 
-
-
-DIFF Fit:
-k1  =   0.5263647, delta1  = 144.4424257
-k2  =   1.1880531, delta2  = 117.5497259
-k3  =   5.5825761, delta3  =  10.5932907
-RMSD fit =   0.4973024 
-
-===========================================
-Non-phased fitting to non-phased QM - raw AA:
-
-QM Fit:
-k1  =   1.8304122, delta1  =   0.0000000
-k2  =   1.4619835, delta2  =   0.0000000
-k3  =   9.5322186, delta3  =   0.0000000
-k4  =   0.1049380, delta4  = 180.0000000
-k5  =   0.1263528, delta5  = 180.0000000
-k6  =   0.1194105, delta6  =   0.0000000
-RMSD fit =   2.1431281 
-
-
-DIFF Fit:
-k1  =   0.4443390, delta1  = 180.0000000
-k3  =   1.9305354, delta3  = 180.0000000
-k6  =   0.2989984, delta6  =   0.0000000
-RMSD fit =   3.8250750 
-
-Non-phased fitting to non-phased QM - raw UA:
-
-QM Fit:
-k1  =   1.8405786, delta1  =   0.0000000
-k2  =   1.7736242, delta2  =   0.0000000
-k3  =   2.0783572, delta3  =   0.0000000
-k4  =   0.0151484, delta4  = 180.0000000
-k5  =   0.0484652, delta5  = 180.0000000
-k6  =   0.0993713, delta6  = 180.0000000
-RMSD fit =   3.9164327 
-
-
-DIFF Fit:
-k2  =   0.5460341, delta2  = 180.0000000
-k3  =   5.5233260, delta3  =   0.0000000
-k6  =   0.5177802, delta6  =   0.0000000
-RMSD fit =   3.8319910 
-
-Non-phased fitting to phased QM - raw AA:
-
-QM Fit:
+MD Fit:
 k1  =   2.8306166, delta1  =  49.8038600
 k2  =   2.4215874, delta2  = -52.6071901
 k3  =   9.5209880, delta3  =   1.3841984
@@ -222,97 +64,60 @@ k3  =   1.9200927, delta3  = 180.0000000
 k6  =   0.3014518, delta6  =   0.0000000
 RMSD fit =   2.0306405 
 
-Non-phased fitting to phased QM - raw UA:
+Phased fitting to raw QM - phased AA:
 
-QM Fit:
-k1  =   4.7909692, delta1  =  67.8051008
-k2  =   3.6912490, delta2  = -61.1420497
-k3  =   2.1240835, delta3  =   6.6489987
-k4  =   0.1418925, delta4  = 106.5867039
-k5  =   0.0848376, delta5  = 132.7598738
-k6  =   0.0696384, delta6  = -172.6316870
-RMSD fit =   0.1040501 
+MD Fit:
+k1  =   2.8306166, delta1  =  49.8038600
+k2  =   2.4215874, delta2  = -52.6071901
+k3  =   9.5209880, delta3  =   1.3841984
+k4  =   0.0995536, delta4  = 172.9573525
+k5  =   0.1246887, delta5  = 174.0715002
+k6  =   0.1618076, delta6  = -41.8597589
+RMSD fit =   0.6342152 
 
 
 DIFF Fit:
-k2  =   0.5483987, delta2  = 180.0000000
-k3  =   5.4863348, delta3  =   0.0000000
-k6  =   0.4930048, delta6  =   0.0000000
-RMSD fit =   1.1601247 
+k1  =   2.6180786, delta1  =  99.7924797
+k3  =   2.1854987, delta3  = 151.5179871
+k4  =   0.4442690, delta4  =  69.5810689
+RMSD fit =   0.4460859 
+
+Non-phased fitting to non-phased QM - raw AA:
+
+QM Fit:
+k1  =   1.3860732, delta1  =   0.0000000
+k2  =   1.2275901, delta2  =   0.0000000
+k3  =   7.6016831, delta3  =   0.0000000
+k4  =   0.0517444, delta4  =   0.0000000
+k5  =   0.0773250, delta5  =   0.0000000
+k6  =   0.4184089, delta6  =   0.0000000
+RMSD fit =   3.8171607 
+
+
+DIFF Fit:
+k1  =   0.4443390, delta1  = 180.0000000
+k3  =   1.9305354, delta3  = 180.0000000
+k6  =   0.2989984, delta6  =   0.0000000
+RMSD fit =   2.1268100 
 
 Phased fitting to non-phased QM - raw AA:
 
 QM Fit:
-k1  =   1.8304122, delta1  =   0.0000000
-k2  =   1.4619835, delta2  =   0.0000000
-k3  =   9.5322186, delta3  =   0.0000000
-k4  =   0.1049380, delta4  = 180.0000000
-k5  =   0.1263528, delta5  = 180.0000000
-k6  =   0.1194105, delta6  =   0.0000000
-RMSD fit =   2.1431281 
+k1  =   1.3860732, delta1  =   0.0000000
+k2  =   1.2275901, delta2  =   0.0000000
+k3  =   7.6016831, delta3  =   0.0000000
+k4  =   0.0517444, delta4  =   0.0000000
+k5  =   0.0773250, delta5  =   0.0000000
+k6  =   0.4184089, delta6  =   0.0000000
+RMSD fit =   3.8171607 
 
 
 DIFF Fit:
-k1  =   4.7632607, delta1  =  95.4064693
-k2  =   2.1916219, delta2  = -96.0223289
-k3  =   2.3157569, delta3  = 146.6758138
-RMSD fit =   0.4709207 
+k1  =   2.2066177, delta1  = -101.5237316
+k2  =   1.9392120, delta2  =  97.1980481
+k3  =   1.9302775, delta3  = -173.1569241
+RMSD fit =   0.5904086 
 
-Phased fitting to non-phased QM - raw UA:
-
-QM Fit:
-k1  =   1.8405786, delta1  =   0.0000000
-k2  =   1.7736242, delta2  =   0.0000000
-k3  =   2.0783572, delta3  =   0.0000000
-k4  =   0.0151484, delta4  = 180.0000000
-k5  =   0.0484652, delta5  = 180.0000000
-k6  =   0.0993713, delta6  = 180.0000000
-RMSD fit =   3.9164327 
-
-
-DIFF Fit:
-k1  =   4.7642294, delta1  =  95.5281890
-k2  =   2.2458053, delta2  = -103.9544511
-k3  =   5.6636109, delta3  =  12.9811571
-RMSD fit =   0.5380615 
-
-Phased fitting to phased QM - raw AA:
-
-QM Fit:
-k1  =   2.8306166, delta1  =  49.8038600
-k2  =   2.4215874, delta2  = -52.6071901
-k3  =   9.5209880, delta3  =   1.3841984
-k4  =   0.0995536, delta4  = 172.9573525
-k5  =   0.1246887, delta5  = 174.0715002
-k6  =   0.1618076, delta6  = -41.8597589
-RMSD fit =   0.6342152 
-
-
-DIFF Fit:
-k1  =   2.6180786, delta1  =  99.7924797
-k3  =   2.1854987, delta3  = 151.5179871
-k4  =   0.4442690, delta4  =  69.5810689
-RMSD fit =   0.4460859 
-
-Phased fitting to phased QM - raw UA:
-
-QM Fit:
-k1  =   4.7909692, delta1  =  67.8051008
-k2  =   3.6912490, delta2  = -61.1420497
-k3  =   2.1240835, delta3  =   6.6489987
-k4  =   0.1418925, delta4  = 106.5867039
-k5  =   0.0848376, delta5  = 132.7598738
-k6  =   0.0696384, delta6  = -172.6316870
-RMSD fit =   0.1040501 
-
-
-DIFF Fit:
-k1  =   0.5263647, delta1  = 144.4424257
-k2  =   1.1880531, delta2  = 117.5497259
-k3  =   5.5825761, delta3  =  10.5932907
-RMSD fit =   0.4973024 
-
-===========================================
 Non-phased fitting to non-phased QM - non-phased AA:
 
 QM Fit:
@@ -341,33 +146,41 @@ k3  =   1.9305354, delta3  = 180.0000000
 k6  =   0.2989984, delta6  =   0.0000000
 RMSD fit =   0.2459413 
 
-Non-phased fitting to non-phased QM - non-phased UA:
+Non-phased fitting to phased QM - raw AA:
 
 QM Fit:
-k1  =   1.3860732, delta1  =   0.0000000
-k2  =   1.2275901, delta2  =   0.0000000
-k3  =   7.6016831, delta3  =   0.0000000
-k4  =   0.0517444, delta4  =   0.0000000
-k5  =   0.0773250, delta5  =   0.0000000
-k6  =   0.4184089, delta6  =   0.0000000
-RMSD fit =   3.8171607 
-
-
-MD Fit:
-k1  =   1.8405786, delta1  =   0.0000000
-k2  =   1.7736242, delta2  =   0.0000000
-k3  =   2.0783572, delta3  =   0.0000000
-k4  =   0.0151484, delta4  = 180.0000000
-k5  =   0.0484652, delta5  = 180.0000000
-k6  =   0.0993713, delta6  = 180.0000000
-RMSD fit =   3.9164327 
+k1  =   4.9392400, delta1  =  73.7563835
+k2  =   2.5036526, delta2  = -60.5213025
+k3  =   7.7030143, delta3  =   9.5064575
+k4  =   0.4322288, delta4  =  82.5297196
+k5  =   0.2658828, delta5  = -74.0913914
+k6  =   0.4400914, delta6  =  16.0917310
+RMSD fit =   0.1020171 
 
 
 DIFF Fit:
-k2  =   0.5460341, delta2  = 180.0000000
-k3  =   5.5233260, delta3  =   0.0000000
-k6  =   0.5177802, delta6  =   0.0000000
-RMSD fit =   0.3368034 
+k1  =   0.4417138, delta1  = 180.0000000
+k3  =   1.9256238, delta3  = 180.0000000
+k6  =   0.3114342, delta6  =   0.0000000
+RMSD fit =   2.0947787 
+
+Phased fitting to phased QM - raw AA:
+
+QM Fit:
+k1  =   4.9392400, delta1  =  73.7563835
+k2  =   2.5036526, delta2  = -60.5213025
+k3  =   7.7030143, delta3  =   9.5064575
+k4  =   0.4322288, delta4  =  82.5297196
+k5  =   0.2658828, delta5  = -74.0913914
+k6  =   0.4400914, delta6  =  16.0917310
+RMSD fit =   0.1020171 
+
+
+DIFF Fit:
+k1  =   2.6180786, delta1  =  99.7924797
+k3  =   2.1854987, delta3  = 151.5179871
+k4  =   0.4442690, delta4  =  69.5810689
+RMSD fit =   0.6784441 
 
 Non-phased fitting to phased QM - phased AA:
 
@@ -397,34 +210,6 @@ k3  =   1.9209810, delta3  = 180.0000000
 k6  =   0.3023371, delta6  =   0.0000000
 RMSD fit =   2.0280138 
 
-Non-phased fitting to phased QM - phased UA:
-
-QM Fit:
-k1  =   4.9392400, delta1  =  73.7563835
-k2  =   2.5036526, delta2  = -60.5213025
-k3  =   7.7030143, delta3  =   9.5064575
-k4  =   0.4322288, delta4  =  82.5297196
-k5  =   0.2658828, delta5  = -74.0913914
-k6  =   0.4400914, delta6  =  16.0917310
-RMSD fit =   0.1020171 
-
-
-MD Fit:
-k1  =   4.7909692, delta1  =  67.8051008
-k2  =   3.6912490, delta2  = -61.1420497
-k3  =   2.1240835, delta3  =   6.6489987
-k4  =   0.1418925, delta4  = 106.5867039
-k5  =   0.0848376, delta5  = 132.7598738
-k6  =   0.0696384, delta6  = -172.6316870
-RMSD fit =   0.1040501 
-
-
-DIFF Fit:
-k2  =   0.5494962, delta2  = 180.0000000
-k3  =   5.4874316, delta3  =   0.0000000
-k6  =   0.4919116, delta6  =   0.0000000
-RMSD fit =   1.1554356 
-
 Phased fitting to phased QM - phased AA:
 
 QM Fit:
@@ -452,6 +237,221 @@ k1  =   2.6180786, delta1  =  99.7924797
 k3  =   2.1854987, delta3  = 151.5179871
 k4  =   0.4442690, delta4  =  69.5810689
 RMSD fit =   0.4344061 
+
+
+=======================================
+
+Non-phased fitting to raw QM - raw UA:
+k2  =   0.5232994, delta2  = 180.0000000
+k3  =   5.4790570, delta3  =   0.0000000
+k6  =   0.4862548, delta6  =   0.0000000
+RMSD fit =   1.1996089 
+
+Phased fitting to raw QM - raw UA:
+k1  =   0.5468312, delta1  = 142.6930334
+k2  =   1.1966063, delta2  = 115.9900601
+k3  =   5.5814633, delta3  =  10.9365295
+RMSD fit =   0.4936776 
+
+Non-phased fitting to raw QM - non-phased UA:
+
+MD Fit:
+k1  =   1.8405786, delta1  =   0.0000000
+k2  =   1.7736242, delta2  =   0.0000000
+k3  =   2.0783572, delta3  =   0.0000000
+k4  =   0.0151484, delta4  = 180.0000000
+k5  =   0.0484652, delta5  = 180.0000000
+k6  =   0.0993713, delta6  = 180.0000000
+RMSD fit =   3.9164327 
+
+
+DIFF Fit:
+k2  =   0.5460341, delta2  = 180.0000000
+k3  =   5.5233260, delta3  =   0.0000000
+k6  =   0.5177802, delta6  =   0.0000000
+RMSD fit =   3.8319910 
+
+Phased fitting to raw QM - non-phased UA:
+
+MD Fit:
+k1  =   1.8405786, delta1  =   0.0000000
+k2  =   1.7736242, delta2  =   0.0000000
+k3  =   2.0783572, delta3  =   0.0000000
+k4  =   0.0151484, delta4  = 180.0000000
+k5  =   0.0484652, delta5  = 180.0000000
+k6  =   0.0993713, delta6  = 180.0000000
+RMSD fit =   3.9164327 
+
+
+DIFF Fit:
+k1  =   4.7642294, delta1  =  95.5281890
+k2  =   2.2458053, delta2  = -103.9544511
+k3  =   5.6636109, delta3  =  12.9811571
+RMSD fit =   0.5380615 
+
+Non-phased fitting to raw QM - phased UA:
+
+MD Fit:
+k1  =   4.7909692, delta1  =  67.8051008
+k2  =   3.6912490, delta2  = -61.1420497
+k3  =   2.1240835, delta3  =   6.6489987
+k4  =   0.1418925, delta4  = 106.5867039
+k5  =   0.0848376, delta5  = 132.7598738
+k6  =   0.0696384, delta6  = -172.6316870
+RMSD fit =   0.1040501 
+
+
+DIFF Fit:
+k2  =   0.5483987, delta2  = 180.0000000
+k3  =   5.4863348, delta3  =   0.0000000
+k6  =   0.4930048, delta6  =   0.0000000
+RMSD fit =   1.1601247 
+
+Phased fitting to raw QM - phased UA:
+
+MD Fit:
+k1  =   4.7909692, delta1  =  67.8051008
+k2  =   3.6912490, delta2  = -61.1420497
+k3  =   2.1240835, delta3  =   6.6489987
+k4  =   0.1418925, delta4  = 106.5867039
+k5  =   0.0848376, delta5  = 132.7598738
+k6  =   0.0696384, delta6  = -172.6316870
+RMSD fit =   0.1040501 
+
+
+DIFF Fit:
+k1  =   0.5263647, delta1  = 144.4424257
+k2  =   1.1880531, delta2  = 117.5497259
+k3  =   5.5825761, delta3  =  10.5932907
+RMSD fit =   0.4973024 
+
+Non-phased fitting to non-phased QM - raw UA:
+
+QM Fit:
+k1  =   1.3860732, delta1  =   0.0000000
+k2  =   1.2275901, delta2  =   0.0000000
+k3  =   7.6016831, delta3  =   0.0000000
+k4  =   0.0517444, delta4  =   0.0000000
+k5  =   0.0773250, delta5  =   0.0000000
+k6  =   0.4184089, delta6  =   0.0000000
+RMSD fit =   3.8171607 
+
+
+DIFF Fit:
+k2  =   0.5460341, delta2  = 180.0000000
+k3  =   5.5233260, delta3  =   0.0000000
+k6  =   0.5177802, delta6  =   0.0000000
+RMSD fit =   3.9309103 
+
+Phased fitting to non-phased QM - raw UA:
+
+QM Fit:
+k1  =   1.3860732, delta1  =   0.0000000
+k2  =   1.2275901, delta2  =   0.0000000
+k3  =   7.6016831, delta3  =   0.0000000
+k4  =   0.0517444, delta4  =   0.0000000
+k5  =   0.0773250, delta5  =   0.0000000
+k6  =   0.4184089, delta6  =   0.0000000
+RMSD fit =   3.8171607 
+
+
+DIFF Fit:
+k1  =   4.4561727, delta1  = -95.4567328
+k2  =   3.2799827, delta2  =  99.7232366
+k3  =   5.4973902, delta3  =  -2.5641359
+RMSD fit =   0.3756916 
+
+Non-phased fitting to non-phased QM - non-phased UA:
+
+QM Fit:
+k1  =   1.3860732, delta1  =   0.0000000
+k2  =   1.2275901, delta2  =   0.0000000
+k3  =   7.6016831, delta3  =   0.0000000
+k4  =   0.0517444, delta4  =   0.0000000
+k5  =   0.0773250, delta5  =   0.0000000
+k6  =   0.4184089, delta6  =   0.0000000
+RMSD fit =   3.8171607 
+
+
+MD Fit:
+k1  =   1.8405786, delta1  =   0.0000000
+k2  =   1.7736242, delta2  =   0.0000000
+k3  =   2.0783572, delta3  =   0.0000000
+k4  =   0.0151484, delta4  = 180.0000000
+k5  =   0.0484652, delta5  = 180.0000000
+k6  =   0.0993713, delta6  = 180.0000000
+RMSD fit =   3.9164327 
+
+
+DIFF Fit:
+k2  =   0.5460341, delta2  = 180.0000000
+k3  =   5.5233260, delta3  =   0.0000000
+k6  =   0.5177802, delta6  =   0.0000000
+RMSD fit =   0.3368034 
+
+Non-phased fitting to phased QM - raw UA:
+
+QM Fit:
+k1  =   4.9392400, delta1  =  73.7563835
+k2  =   2.5036526, delta2  = -60.5213025
+k3  =   7.7030143, delta3  =   9.5064575
+k4  =   0.4322288, delta4  =  82.5297196
+k5  =   0.2658828, delta5  = -74.0913914
+k6  =   0.4400914, delta6  =  16.0917310
+RMSD fit =   0.1020171 
+
+
+DIFF Fit:
+k2  =   0.5499427, delta2  = 180.0000000
+k3  =   5.4786224, delta3  =   0.0000000
+k6  =   0.4884782, delta6  =   0.0000000
+RMSD fit =   1.1653096 
+
+Phased fitting to phased QM - raw UA:
+
+QM Fit:
+k1  =   4.9392400, delta1  =  73.7563835
+k2  =   2.5036526, delta2  = -60.5213025
+k3  =   7.7030143, delta3  =   9.5064575
+k4  =   0.4322288, delta4  =  82.5297196
+k5  =   0.2658828, delta5  = -74.0913914
+k6  =   0.4400914, delta6  =  16.0917310
+RMSD fit =   0.1020171 
+
+
+DIFF Fit:
+k1  =   0.5263647, delta1  = 144.4424257
+k2  =   1.1880531, delta2  = 117.5497259
+k3  =   5.5825761, delta3  =  10.5932907
+RMSD fit =   0.4859928 
+
+Non-phased fitting to phased QM - phased UA:
+
+QM Fit:
+k1  =   4.9392400, delta1  =  73.7563835
+k2  =   2.5036526, delta2  = -60.5213025
+k3  =   7.7030143, delta3  =   9.5064575
+k4  =   0.4322288, delta4  =  82.5297196
+k5  =   0.2658828, delta5  = -74.0913914
+k6  =   0.4400914, delta6  =  16.0917310
+RMSD fit =   0.1020171 
+
+
+MD Fit:
+k1  =   4.7909692, delta1  =  67.8051008
+k2  =   3.6912490, delta2  = -61.1420497
+k3  =   2.1240835, delta3  =   6.6489987
+k4  =   0.1418925, delta4  = 106.5867039
+k5  =   0.0848376, delta5  = 132.7598738
+k6  =   0.0696384, delta6  = -172.6316870
+RMSD fit =   0.1040501 
+
+
+DIFF Fit:
+k2  =   0.5494962, delta2  = 180.0000000
+k3  =   5.4874316, delta3  =   0.0000000
+k6  =   0.4919116, delta6  =   0.0000000
+RMSD fit =   1.1554356 
 
 Phased fitting to phased QM - phased UA:
 
